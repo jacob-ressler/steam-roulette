@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Sniglet&display=swap');
+
+$text-dark: #ececec;
+$bg-dark: #1c1c1c;
+$selection: darkred;
+
+* {
+	font-family: 'Sniglet', cursive;
+	box-sizing: border-box;
+}
+body {
+	width: 95vw;
+	background-color: $bg-dark;
+	color: $text-dark;
+
+	a {
+		text-decoration: none;
+		color: $text-dark;
+		margin: 0;
+		padding: 0;
+	}
+
+	.games-container {
+		display: flex;
+		flex-flow: wrap;
+		flex-direction: row;
+		justify-content: center;
+		align-content: space-around;
+
+		.game {
+			position: relative;
+			width: 400px;
+			height: 200px;
+			margin: 10px;
+
+			a {
+				position: absolute;
+				width: 100%;
+				height: 100%;
+			}
+
+			img {
+				width: 100%;
+				height: 100%;
+			}
+
+			.game-overlay {
+				width: 100%;
+				height: 100%;
+				display: grid;
+				gap: 3px;
+				align-items: center;
+				grid-template-columns: repeat(2, 1fr);
+				grid-template-rows: auto 1fr 20px;
+				grid-template-areas:
+					'title title'
+					'description description'
+					'platforms date';
+				position: absolute;
+				top: 0;
+				left: 0;
+				right: 0;
+				bottom: 0;
+				padding: 8px;
+				background-color: rgba(black, 0.75);
+				opacity: 0; // CHANGE BACK TO 0
+				border: darkred 2px solid;
+				transition: opacity 300ms;
+
+				&:hover {
+					opacity: 1;
+					transition: opacity 300ms;
+				}
+
+				.game-title {
+					padding: 0;
+					margin: 0;
+					grid-area: title;
+					font-size: 24px;
+					font-weight: 500;
+				}
+
+				.game-desc {
+					grid-area: description;
+					font-size: 13px;
+				}
+
+				.platforms {
+					grid-area: platforms;
+					display: grid;
+					grid-template-columns: repeat(6, 1fr);
+					a {
+						font-size: 24px;
+						position: relative;
+
+						&:hover {
+							color: rgb(192, 46, 46);
+						}
+					}
+				}
+
+				.stream-date {
+					grid-area: date;
+					font-size: 20px;
+					text-align: right;
+				}
+			}
+		}
+	}
+}
