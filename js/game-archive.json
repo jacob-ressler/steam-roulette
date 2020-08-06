@@ -168,9 +168,12 @@
 		"title": "one night, hot springs",
 		"desc": "Haru is invited by her old friend Manami to spend a night at the hot springs. All Haru wants to do is enjoy the hot springs like everyone else, but she doesn't want to cause any trouble...",
 		"stream": "June 9, 2020",
-		"thumbnail": "",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/917680/header.jpg?t=1572054919",
 		"platforms": ["steam", "itch"],
-		"links": ["", ""],
+		"links": [
+			"https://store.steampowered.com/app/917680/one_night_hot_springs/",
+			"https://npckc.itch.io/one-night-hot-springs"
+		],
 		"ytlink": "https://youtu.be/yrfQWF2yI5c?t=2519"
 	},
 	{
