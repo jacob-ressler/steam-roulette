@@ -20,6 +20,8 @@ body {
           justify-content: center;
   background-color: #1c1c1c;
   color: #ececec;
+  padding: 0;
+  margin: 0;
 }
 
 body a {
@@ -321,5 +323,53 @@ body .games-container .game .game-overlay .stream-date {
   grid-area: date;
   font-size: 20px;
   text-align: right;
+}
+
+body footer {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-rows: 3fr 2fr;
+      grid-template-rows: 3fr 2fr;
+  width: 100%;
+  background-color: black;
+  padding: 20px;
+  padding-top: 32px;
+  padding-bottom: 12px;
+  margin-top: 20px;
+}
+
+body footer .socials {
+  font-size: 40px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: nowrap;
+      flex-wrap: nowrap;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-pack: space-evenly;
+      -ms-flex-pack: space-evenly;
+          justify-content: space-evenly;
+}
+
+body footer .socials a {
+  width: 25%;
+  text-align: center;
+  color: #ececec;
+  -webkit-transition: color 300ms;
+  transition: color 300ms;
+}
+
+body footer .socials a:hover {
+  color: #c02e2e;
+  -webkit-transition: color 100ms;
+  transition: color 100ms;
+}
+
+body footer p {
+  width: 100%;
+  text-align: center;
 }
 /*# sourceMappingURL=style.css.map */

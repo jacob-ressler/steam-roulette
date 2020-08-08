@@ -18,6 +18,8 @@ body {
 	justify-content: center;
 	background-color: $bg-dark;
 	color: $text-dark;
+	padding: 0;
+	margin: 0;
 
 	a {
 		text-decoration: none;
@@ -254,6 +256,42 @@ body {
 					text-align: right;
 				}
 			}
+		}
+	}
+
+	footer {
+		display: grid;
+		grid-template-rows: 3fr 2fr;
+		width: 100%;
+		background-color: black;
+		padding: 20px;
+		padding-top: 32px;
+		padding-bottom: 12px;
+		margin-top: 20px;
+
+		.socials {
+			font-size: 40px;
+			display: flex;
+			flex-wrap: nowrap;
+			flex-direction: row;
+			justify-content: space-evenly;
+
+			a {
+				width: 25%;
+				text-align: center;
+				color: $text-dark;
+				transition: color 300ms;
+
+				&:hover {
+					color: $accent;
+					transition: color 100ms;
+				}
+			}
+		}
+
+		p {
+			width: 100%;
+			text-align: center;
 		}
 	}
 }
