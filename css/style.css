@@ -35,16 +35,14 @@ body span {
   color: #c02e2e;
 }
 
-body header {
-  padding: 3vw;
-}
-
 body header .hero {
   display: -ms-grid;
   display: grid;
   -ms-grid-columns: 1fr;
       grid-template-columns: 1fr;
   justify-items: center;
+  background-color: black;
+  border-bottom: 4px #ececec solid;
 }
 
 body header .hero img {
@@ -212,6 +210,8 @@ body .guide {
 }
 
 body .games-container {
+  padding-left: 3vw;
+  padding-right: 3vw;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -340,6 +340,8 @@ body footer {
 
 body footer .socials {
   font-size: 40px;
+  width: 75%;
+  justify-self: center;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;

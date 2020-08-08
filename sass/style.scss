@@ -33,12 +33,14 @@ body {
 	}
 
 	header {
-		padding: $page-padding;
+		//padding: $page-padding;
 
 		.hero {
 			display: grid;
 			grid-template-columns: 1fr;
 			justify-items: center;
+			background-color: black;
+			border-bottom: 4px $text-dark solid;
 
 			img {
 				max-width: 1000px;
@@ -172,6 +174,8 @@ body {
 	}
 
 	.games-container {
+		padding-left: $page-padding;
+		padding-right: $page-padding;
 		display: flex;
 		flex-flow: wrap;
 		flex-direction: row;
@@ -271,6 +275,8 @@ body {
 
 		.socials {
 			font-size: 40px;
+			width: 75%;
+			justify-self: center;
 			display: flex;
 			flex-wrap: nowrap;
 			flex-direction: row;
