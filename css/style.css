@@ -29,11 +29,42 @@ body a {
   padding: 0;
 }
 
+body span {
+  color: #c02e2e;
+}
+
 body header {
   padding: 3vw;
 }
 
-body header p {
+body header .hero {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 1fr;
+      grid-template-columns: 1fr;
+  justify-items: center;
+}
+
+body header .hero img {
+  max-width: 1000px;
+  width: 100%;
+}
+
+@media screen and (min-width: 768px) {
+  body header .intro {
+    padding-left: 10vw;
+    padding-right: 10vw;
+  }
+}
+
+@media screen and (min-width: 1920px) {
+  body header .intro {
+    padding-left: 20vw;
+    padding-right: 20vw;
+  }
+}
+
+body header .intro p {
   font-size: 18px;
 }
 
@@ -176,10 +207,6 @@ body .guide {
       -ms-flex-pack: center;
           justify-content: center;
   font-size: 17px;
-}
-
-body .guide span {
-  color: #c02e2e;
 }
 
 body .games-container {
