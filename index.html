@@ -13,21 +13,45 @@
 		<header>
 			<img src="" alt="[hero banner here]" />
 			<h1>What is Steam Roulette?</h1>
-			<p>[description of steam roulette here]</p>
-			<div class="guide">
-				<p>
-					This site exists simultaneously as an archive of previously played Steam Roulette games,
-					and as a repository of games suggested for future Steam Roulette streams.
-				</p>
-			</div>
+			<p>
+				Steam Roulette is a series where we try out a bunch of viewer-suggested games. The catch is
+				that we don't pick the games we play...
+			</p>
+			<p>
+				Each suggested game is assigned a number on a roulette wheel. Whatever number the ball lands
+				on is the game that gets played.
+			</p>
+			<p>
+				This site exists simultaneously as an archive of previously played Steam Roulette games, and
+				as a repository of game suggestions for future Steam Roulette streams.
+			</p>
 		</header>
 		<div class="btn-container">
-			<button class="btn-archive" onclick="loadArchive()">
-				<i class="fas fa-archive"></i>View Archive
-			</button>
-			<button class="btn-suggestions" onclick="loadSuggestions">
-				<i class="fas fa-question"></i>View Suggestions
-			</button>
+			<div class="btn-wheel-container">
+				<button class="btn-wheel" onclick="generateWheel()">
+					<i class="fas fa-dharmachakra"></i>Generate Roulette Wheel<i
+						class="fas fa-dharmachakra"
+					></i>
+				</button>
+			</div>
+			<div class="roulette-wheel"></div>
+			<div class="btn-views">
+				<button class="btn-archive" onclick="loadArchive()">
+					<i class="fas fa-archive"></i>View Archive
+				</button>
+				<button class="btn-suggestions" onclick="loadSuggestions()">
+					<i class="fas fa-question"></i>View Suggestions
+				</button>
+			</div>
+		</div>
+		<div class="guide">
+			<!-- <p>
+				<b>Hover</b> over a tile to see the game's <span>title</span>, <span>description</span>,
+				<span>stream date</span>, and <span>platform availability</span>. <br /><b>Click</b> a tile
+				to watch the <span>YouTube VOD</span> of the game. <br />
+				<b>Click</b> a tile's <i class="fab fa-steam"></i> or <i class="fab fa-itch-io"></i> icon to
+				view the game on <span>Steam</span> or <span>itch.io</span> repsectively.
+			</p> -->
 		</div>
 		<div class="games-container">
 			<!-- <div class="game">

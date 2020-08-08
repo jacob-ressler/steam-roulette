@@ -33,17 +33,88 @@ body header {
   padding: 3vw;
 }
 
-body .btn-container {
+body header p {
+  font-size: 18px;
+}
+
+body .roulette-wheel {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 1fr;
+      grid-template-columns: 1fr;
+  width: 100%;
+  height: 100%;
+  padding-bottom: 20px;
+}
+
+body .roulette-wheel a {
+  font-size: 24px;
+  color: #c02e2e;
+  -ms-grid-column-align: center;
+      justify-self: center;
+  text-align: center;
+  margin-top: 24px;
+  padding: 8px 16px;
+  border-radius: 4px;
+  background-color: #1c1c1c;
+  -webkit-transition: background-color 300ms;
+  transition: background-color 300ms;
+}
+
+body .roulette-wheel a:hover {
+  background-color: #363636;
+  -webkit-transition: background-color 100ms;
+  transition: background-color 100ms;
+}
+
+body .roulette-wheel a:hover .show {
+  opacity: 1;
+  -webkit-transition: opacity 100ms;
+  transition: opacity 100ms;
+}
+
+body .roulette-wheel a i {
+  font-size: 18px;
+  opacity: 0;
+  padding: 6px;
+  -webkit-transform: translateY(-2px);
+          transform: translateY(-2px);
+  -webkit-transition: opacity 300ms;
+  transition: opacity 300ms;
+}
+
+body .btn-views {
+  -ms-grid-columns: 1fr 1fr;
+      grid-template-columns: 1fr 1fr;
+  gap: 24px;
+}
+
+body .btn-wheel-container {
+  -ms-grid-columns: 1fr;
+      grid-template-columns: 1fr;
+}
+
+body .btn-wheel-container .btn-wheel {
+  width: 350px;
+  -ms-grid-column-align: center;
+      justify-self: center;
+}
+
+body .btn-wheel-container .btn-wheel i {
+  padding: 6px;
+}
+
+body .btn-views,
+body .btn-wheel-container {
   display: -ms-grid;
   display: grid;
   padding: 3vw;
-  -ms-grid-columns: 1fr 1fr;
-      grid-template-columns: 1fr 1fr;
-  gap: 25px;
+  padding-bottom: 0;
 }
 
-body .btn-container button {
-  width: auto;
+body .btn-views button,
+body .btn-wheel-container button {
+  width: 180px;
   height: auto;
   padding: 8px;
   font-size: 18px;
@@ -57,7 +128,8 @@ body .btn-container button {
   transition: 300ms box-shadow, 100ms color, 300ms -webkit-box-shadow;
 }
 
-body .btn-container button:hover {
+body .btn-views button:hover,
+body .btn-wheel-container button:hover {
   color: #c02e2e;
   -webkit-box-shadow: 0px 2px 2px 3px #c02e2e;
           box-shadow: 0px 2px 2px 3px #c02e2e;
@@ -68,26 +140,46 @@ body .btn-container button:hover {
   transition: 100ms box-shadow, 100ms color, 100ms -webkit-box-shadow;
 }
 
-body .btn-container button:focus {
+body .btn-views button:focus,
+body .btn-wheel-container button:focus {
   border: none;
   outline: none;
 }
 
-body .btn-container button i {
+body .btn-views button i,
+body .btn-wheel-container button i {
   padding-right: 8px;
 }
 
-body .btn-container .btn-archive {
+body .btn-views .btn-archive,
+body .btn-wheel-container .btn-archive {
   justify-self: flex-end;
 }
 
-body .btn-container .btn-suggestions {
+body .btn-views .btn-suggestions,
+body .btn-wheel-container .btn-suggestions {
   justify-self: flex-start;
 }
 
-body .btn-container .btn-suggestions i {
+body .btn-views .btn-suggestions i,
+body .btn-wheel-container .btn-suggestions i {
   -webkit-transform: rotate(-15deg);
           transform: rotate(-15deg);
+}
+
+body .guide {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  padding: 3vw;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  font-size: 17px;
+}
+
+body .guide span {
+  color: #c02e2e;
 }
 
 body .games-container {
