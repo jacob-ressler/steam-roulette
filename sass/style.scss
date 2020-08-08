@@ -298,6 +298,23 @@ body {
 		p {
 			width: 100%;
 			text-align: center;
+
+			a {
+				width: 25%;
+				text-align: center;
+				color: $text-dark;
+				transition: color 300ms;
+
+				&:hover {
+					color: $accent;
+					transition: color 100ms;
+				}
+
+				i {
+					margin-top: 8px;
+					font-size: 24px;
+				}
+			}
 		}
 	}
 }

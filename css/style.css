@@ -374,4 +374,23 @@ body footer p {
   width: 100%;
   text-align: center;
 }
+
+body footer p a {
+  width: 25%;
+  text-align: center;
+  color: #ececec;
+  -webkit-transition: color 300ms;
+  transition: color 300ms;
+}
+
+body footer p a:hover {
+  color: #c02e2e;
+  -webkit-transition: color 100ms;
+  transition: color 100ms;
+}
+
+body footer p a i {
+  margin-top: 8px;
+  font-size: 24px;
+}
 /*# sourceMappingURL=style.css.map */
