@@ -31,7 +31,7 @@ function loadArchive() {
 			}
 
 			archiveHtml += `<div class="game">
-			<a href="${game.ytlink}">
+			${game.ytlink == '' ? `` : `<a href="${game.ytlink}">`}
 				<img src="${game.thumbnail}" alt="${game.title}" />
 				<div class="game-overlay">
 					<h3 class="game-title">${game.title}</h3>
@@ -42,7 +42,7 @@ function loadArchive() {
 					<p class="stream-date">${game.stream}</p>
 					<div class="platforms">${platformsHtml}</div>
 				</div>
-			</a>
+				${game.ytlink == '' ? `` : `</a>`}
 		</div>`;
 		}
 
