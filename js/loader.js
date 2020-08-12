@@ -128,7 +128,7 @@ function generateWheel() {
 
 		let htmlString = `<a target="_blank" href="${str}">
 			<i class="fas fa-external-link-alt"></i>Go to Roulette Wheel<i class="fas fa-external-link-alt show"></i>
-		</a>`;
+		</a><p>Hullo chat, you can guess anywhere from 00 to ${data.length - 2}</p>`;
 		//console.log(str);
 		$('.roulette-wheel').html(htmlString);
 	});
