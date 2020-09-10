@@ -379,5 +379,83 @@
 		"platforms": ["steam"],
 		"links": ["https://store.steampowered.com/app/1339640/The_Ice_Caves/"],
 		"ytlink": ""
+	},
+	{
+		"title": "Death and Progress",
+		"desc": "A girl wakes up with no knowledge of who or where she is, and she soon finds out that the only way forward... is to die.",
+		"stream": "September 9, 2020",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1125420/header.jpg?t=1571156763",
+		"platforms": ["steam", "itch"],
+		"links": [
+			"https://store.steampowered.com/app/1125420/Death_and_Progress/",
+			"https://shentzu.itch.io/death-and-progress"
+		],
+		"ytlink": ""
+	},
+	{
+		"title": "Vecter",
+		"desc": "Vecter is a fast-paced runner and shooter game where your goal is to survive by the skin of your teeth and raise hell in your path. You get in your ship, you push the throttle on max and then try to survive for as long as possible by annihilating anything that gets in your way.",
+		"stream": "September 9, 2020",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1175140/header_alt_assets_1.jpg?t=1595878659",
+		"platforms": ["steam", "itch"],
+		"links": [
+			"https://store.steampowered.com/app/1175140/Vecter/",
+			"https://taranasus.itch.io/vecter"
+		],
+		"ytlink": ""
+	},
+	{
+		"title": "Shepherd of Light",
+		"desc": "Shepherd of Light is a student made game where you control a young shepherd who loses his sheep, and must brave a wolf-infested forest to get them to safety. Rescue sheep with different special abilities and direct them to solve environmental puzzles.",
+		"stream": "September 9, 2020",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1106770/header.jpg?t=1567580434",
+		"platforms": ["steam"],
+		"links": ["https://store.steampowered.com/app/1106770/Shepherd_of_Light/"],
+		"ytlink": ""
+	},
+	{
+		"title": "Khimera: Destroy All Monster Girls",
+		"desc": "Play as Chelshia the chimera in this platforming beat-em-up adventure into the wonderful world of monster girls!",
+		"stream": "September 9, 2020",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/467380/header.jpg?t=1573437385",
+		"platforms": ["steam", "itch"],
+		"links": [
+			"https://store.steampowered.com/app/467380/Khimera_Destroy_All_Monster_Girls/",
+			"https://suits-sandals.itch.io/khimera-destroy-all-monster-girls"
+		],
+		"ytlink": ""
+	},
+	{
+		"title": "Sprout",
+		"desc": "Embark on a casual, botanical-puzzle-adventure. Make friends, learn new skills, solve puzzles, and become the mighty oak that you were always meant to be.",
+		"stream": "September 9, 2020",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/758530/header.jpg?t=1515182420",
+		"platforms": ["steam", "itch"],
+		"links": [
+			"https://store.steampowered.com/app/758530/Sprout/",
+			"https://mindfulmammoth.itch.io/sprout"
+		],
+		"ytlink": ""
+	},
+	{
+		"title": "WGT Golf",
+		"desc": "Experience iconic golf courses like Pebble Beach, St Andrews and Wolf Creek in the most realistic free golf game, and connect with millions of players all over the world!",
+		"stream": "September 9, 2020",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1182020/header.jpg?t=1593552561",
+		"platforms": ["steam"],
+		"links": ["https://store.steampowered.com/app/1182020/WGT_Golf/"],
+		"ytlink": ""
+	},
+	{
+		"title": "Survivor",
+		"desc": "Outwit, Outplay, Outcast.",
+		"stream": "September 9, 2020",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1031700/header.jpg?t=1555938033",
+		"platforms": ["steam", "itch"],
+		"links": [
+			"https://store.steampowered.com/app/1031700/Survivor/",
+			"https://reiameril.itch.io/survivor"
+		],
+		"ytlink": ""
 	}
 ]

@@ -27,16 +27,6 @@
 		]
 	},
 	{
-		"title": "Khimera: Destroy All Monster Girls",
-		"desc": "Play as Chelshia the chimera in this platforming beat-em-up adventure into the wonderful world of monster girls!",
-		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/467380/header.jpg?t=1573437385",
-		"platforms": ["steam", "itch"],
-		"links": [
-			"https://store.steampowered.com/app/467380/Khimera_Destroy_All_Monster_Girls/",
-			"https://suits-sandals.itch.io/khimera-destroy-all-monster-girls"
-		]
-	},
-	{
 		"title": "Clown House",
 		"desc": "Freeware horror game with the mise en scène of an old black&white film and unique horror experience.",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/387970/header.jpg?t=1552238781",
@@ -187,16 +177,6 @@
 		]
 	},
 	{
-		"title": "Death and Progress",
-		"desc": "A girl wakes up with no knowledge of who or where she is, and she soon finds out that the only way forward... is to die.",
-		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1125420/header.jpg?t=1571156763",
-		"platforms": ["steam", "itch"],
-		"links": [
-			"https://store.steampowered.com/app/1125420/Death_and_Progress/",
-			"https://shentzu.itch.io/death-and-progress"
-		]
-	},
-	{
 		"title": "The Shell of Permafrost",
 		"desc": "A girl, draped in mystery and chased by an evil fate, escapes from a frozen land. Now, a year later, with her memory gradually returning, she is forced to make an important decision.",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/976940/header.jpg?t=1546671606",
@@ -231,16 +211,6 @@
 		]
 	},
 	{
-		"title": "Sprout",
-		"desc": "Embark on a casual, botanical-puzzle-adventure. Make friends, learn new skills, solve puzzles, and become the mighty oak that you were always meant to be.",
-		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/758530/header.jpg?t=1515182420",
-		"platforms": ["steam", "itch"],
-		"links": [
-			"https://store.steampowered.com/app/758530/Sprout/",
-			"https://mindfulmammoth.itch.io/sprout"
-		]
-	},
-	{
 		"title": "Mushroom Cats",
 		"desc": "Mushroom Cats is a kind and sweet game in the point-and-click genre about Mushroom Cats that live on the magical Toadstool.",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1071120/header.jpg?t=1582836358",
@@ -265,28 +235,11 @@
 		]
 	},
 	{
-		"title": "Vecter",
-		"desc": "Vecter is a fast-paced runner and shooter game where your goal is to survive by the skin of your teeth and raise hell in your path. You get in your ship, you push the throttle on max and then try to survive for as long as possible by annihilating anything that gets in your way.",
-		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1175140/header_alt_assets_1.jpg?t=1595878659",
-		"platforms": ["steam", "itch"],
-		"links": [
-			"https://store.steampowered.com/app/1175140/Vecter/",
-			"https://taranasus.itch.io/vecter"
-		]
-	},
-	{
 		"title": "La Rana",
 		"desc": "In La Rana, players explore the lost Rain Temple of Rana. Play as a small spirit frog who is the temple's last remaining caretaker. Traverse its grand chambers and winding passages to restore its former power and revive your fellow frog spirits along the way.",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/934860/header.jpg?t=1546969809",
 		"platforms": ["steam"],
 		"links": ["https://store.steampowered.com/app/934860/La_Rana/"]
-	},
-	{
-		"title": "Shepherd of Light",
-		"desc": "Shepherd of Light is a student made game where you control a young shepherd who loses his sheep, and must brave a wolf-infested forest to get them to safety. Rescue sheep with different special abilities and direct them to solve environmental puzzles.",
-		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1106770/header.jpg?t=1567580434",
-		"platforms": ["steam"],
-		"links": ["https://store.steampowered.com/app/1106770/Shepherd_of_Light/"]
 	},
 	{
 		"title": "Brief Karate Foolish",
@@ -417,13 +370,6 @@
 		"links": ["https://store.steampowered.com/app/875610/LoopLoop_DX/"]
 	},
 	{
-		"title": "WGT Golf",
-		"desc": "Experience iconic golf courses like Pebble Beach, St Andrews and Wolf Creek in the most realistic free golf game, and connect with millions of players all over the world!",
-		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1182020/header.jpg?t=1593552561",
-		"platforms": ["steam"],
-		"links": ["https://store.steampowered.com/app/1182020/WGT_Golf/"]
-	},
-	{
 		"title": "Frog Fractions",
 		"desc": "The classic web game, reborn! Enjoy this remaster in glorious 4k resolution! Follow this frog on its arcade action adventure through swarm of bugs and beyond! Purchase the hat DLC for the ultimate experience, if you want to eat bugs while wearing a hat!",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1194840/header.jpg?t=1596767315",
@@ -517,16 +463,6 @@
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1095520/header.jpg?t=1567445003",
 		"platforms": ["steam"],
 		"links": ["https://store.steampowered.com/app/1095520/The_Itch/"]
-	},
-	{
-		"title": "Survivor",
-		"desc": "Outwit, Outplay, Outcast.",
-		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1031700/header.jpg?t=1555938033",
-		"platforms": ["steam", "itch"],
-		"links": [
-			"https://store.steampowered.com/app/1031700/Survivor/",
-			"https://reiameril.itch.io/survivor"
-		]
 	},
 	{
 		"title": "be you",
