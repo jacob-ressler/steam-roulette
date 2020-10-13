@@ -43,8 +43,50 @@ body {
 			border-bottom: 4px $text-dark solid;
 
 			img {
-				max-width: 1000px;
+				max-width: 960px;
 				width: 100%;
+			}
+		}
+
+		.autumn {
+			background-color: #582b33;
+		}
+
+		.special {
+			text-align: center;
+			padding-top: 20px;
+			a {
+				font-size: 24px;
+				color: $text-dark;
+				justify-self: center;
+				text-align: center;
+				margin-top: 24px;
+				padding: 8px 16px;
+				border-radius: 4px;
+				background-color: $accent;
+				transition: box-shadow 300ms;
+
+				&:hover {
+					box-shadow: 0px 3px 2px 2px $text-dark;
+					transition: 100ms box-shadow;
+				}
+
+				span {
+					color: $text-dark;
+				}
+
+				i {
+					font-size: 24px;
+					padding: 6px;
+					//transform: translateY(-1px);
+					transition: opacity 300ms;
+					&:first-child {
+						transform: rotate(-25deg);
+					}
+					&:last-child {
+						transform: rotate(25deg);
+					}
+				}
 			}
 		}
 

@@ -1,7 +1,7 @@
 let archiveLoaded = false;
 let suggestionsLoaded = false;
 
-function loadArchive() {
+function loadArchive(partialpath = '') {
 	//console.log(archiveLoaded);
 	if (archiveLoaded) return;
 
@@ -14,7 +14,7 @@ function loadArchive() {
 	</p>`;
 
 	// The archive is not loaded, so load it 4Head
-	$.getJSON('js/game-archive.json?' + new Date().getTime(), function (data) {
+	$.getJSON(partialpath + 'js/game-archive.json?' + new Date().getTime(), function (data) {
 		let archiveHtml = '';
 		for (let i = 0; i < data.length; i++) {
 			const game = data[i];
@@ -55,7 +55,7 @@ function loadArchive() {
 	});
 }
 
-function loadSuggestions() {
+function loadSuggestions(file = 'js/game-suggestions.json') {
 	if (suggestionsLoaded) return;
 
 	const guideHtml = `<p>
@@ -66,7 +66,7 @@ function loadSuggestions() {
 	</p>`;
 
 	// The suggestions are not loaded, so load them 4Head
-	$.getJSON('js/game-suggestions.json?' + new Date().getTime(), function (data) {
+	$.getJSON(file + '?' + new Date().getTime(), function (data) {
 		let suggestionsHtml = '';
 
 		for (let i = 0; i < data.length; i++) {
@@ -109,11 +109,11 @@ function loadSuggestions() {
 /*
 		Generates a link to a roulette wheel for up to 100 games from the suggestions
 */
-function generateWheel() {
+function generateWheel(file = 'js/game-suggestions.json') {
 	let str =
 		'https://wheeldecide.com/index.php?cols=1c1c1c,ececec,c02e2e&t=Steam+Roulette&time=5&tcol=ececec,1c1c1c,ececec&width=750';
 	let roulettevals = [];
-	$.getJSON('js/game-suggestions.json?' + new Date().getTime(), function (data) {
+	$.getJSON(file + '?' + new Date().getTime(), function (data) {
 		for (let i = 0; i < data.length && i < 100; i++) {
 			roulettevals[i] = i == 0 ? '00' : `${i - 1}`;
 			//console.log(roulettevals);

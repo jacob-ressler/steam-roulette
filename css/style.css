@@ -46,8 +46,63 @@ body header .hero {
 }
 
 body header .hero img {
-  max-width: 1000px;
+  max-width: 960px;
   width: 100%;
+}
+
+body header .autumn {
+  background-color: #582b33;
+}
+
+body header .special {
+  text-align: center;
+  padding-top: 20px;
+}
+
+body header .special a {
+  font-size: 24px;
+  color: #ececec;
+  -ms-grid-column-align: center;
+      justify-self: center;
+  text-align: center;
+  margin-top: 24px;
+  padding: 8px 16px;
+  border-radius: 4px;
+  background-color: #c02e2e;
+  -webkit-transition: -webkit-box-shadow 300ms;
+  transition: -webkit-box-shadow 300ms;
+  transition: box-shadow 300ms;
+  transition: box-shadow 300ms, -webkit-box-shadow 300ms;
+}
+
+body header .special a:hover {
+  -webkit-box-shadow: 0px 3px 2px 2px #ececec;
+          box-shadow: 0px 3px 2px 2px #ececec;
+  -webkit-transition: 100ms -webkit-box-shadow;
+  transition: 100ms -webkit-box-shadow;
+  transition: 100ms box-shadow;
+  transition: 100ms box-shadow, 100ms -webkit-box-shadow;
+}
+
+body header .special a span {
+  color: #ececec;
+}
+
+body header .special a i {
+  font-size: 24px;
+  padding: 6px;
+  -webkit-transition: opacity 300ms;
+  transition: opacity 300ms;
+}
+
+body header .special a i:first-child {
+  -webkit-transform: rotate(-25deg);
+          transform: rotate(-25deg);
+}
+
+body header .special a i:last-child {
+  -webkit-transform: rotate(25deg);
+          transform: rotate(25deg);
 }
 
 @media screen and (min-width: 768px) {
