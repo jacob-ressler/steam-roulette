@@ -457,5 +457,94 @@
 			"https://reiameril.itch.io/survivor"
 		],
 		"ytlink": ""
+	},
+	{
+		"title": "SAD RPG: A Social Anxiety Role Playing Game",
+		"desc": "SAD RPG : A Social Anxiety Role Playing Game is an experimental indie computer RPG game about social anxiety. It's an unexpectedly colourful, weird and full of surprises journey with our own story about dealing with Social Anxiety Disorder.",
+		"stream": "October 24, 2020",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/857760/header.jpg?t=1602363024",
+		"platforms": ["steam"],
+		"links": [
+			"https://store.steampowered.com/app/857760/SAD_RPG_A_Social_Anxiety_Role_Playing_Game/"
+		],
+		"ytlink": ""
+	},
+	{
+		"title": "Fire Tonight",
+		"desc": "A narrative puzzle game about two people trying to find their way back together in a city on fire.",
+		"stream": "October 24, 2020",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1188900/header.jpg?t=1598897655",
+		"platforms": ["steam"],
+		"links": ["https://store.steampowered.com/app/1188900/Fire_Tonight/"],
+		"ytlink": ""
+	},
+	{
+		"title": "SuchArt: Genius Artist Simulator",
+		"desc": "A unique artist sim game with realistic paint mixing, physics and numerous painting tools. Upgrade and customize your studio, complete tasks, sell and expose art, buy instruments and get famous!",
+		"stream": "October 24, 2020",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1293180/header.jpg?t=1602504923",
+		"platforms": ["steam"],
+		"links": ["https://store.steampowered.com/app/1293180/SuchArt_Genius_Artist_Simulator/"],
+		"ytlink": ""
+	},
+	{
+		"title": "Smelter",
+		"desc": "Smelter is a strategy, action-platformer combo inspired by the classics. Play as Eve, who teams up with Smelter in her search for Adam, expanding Smelter’s base and exploring new dangerous lands.",
+		"stream": "October 24, 2020",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1094540/header.jpg?t=1602210488",
+		"platforms": ["steam"],
+		"links": ["https://store.steampowered.com/app/1094540/Smelter/"],
+		"ytlink": ""
+	},
+	{
+		"title": "Oirbo",
+		"desc": "Explore a labyrinthian spacecraft and discover its mysteries and purpose. Help Oirbo navigate a metroidvania inspired, hand-drawn, 2D action-platformer full of secrets to uncover, areas to explore and enemies to dismantle. The choices are yours to make, how will you unravel the twisted story?",
+		"stream": "October 24, 2020",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1074280/header.jpg?t=1601487958",
+		"platforms": ["steam", "itch"],
+		"links": [
+			"https://store.steampowered.com/app/1074280/Oirbo/",
+			"https://imaginationoverflow.itch.io/oirbo"
+		],
+		"ytlink": ""
+	},
+	{
+		"title": "Calico",
+		"desc": "Calico is a day-in-the-life community sim game where you are given an important and adorable task: rebuild the town’s cat café and fill it with cute and cuddly creatures! Build up your café by filling it with cute furniture, fun decorations, yummy pastries, and get it bustling with animals again!",
+		"stream": "October 24, 2020",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1112890/header.jpg?t=1602564116",
+		"platforms": ["steam"],
+		"links": ["https://store.steampowered.com/app/1112890/Calico/"],
+		"ytlink": ""
+	},
+	{
+		"title": "Finders, Keepers",
+		"desc": "A hike above ancient woodland on summer solstice.",
+		"stream": "October 24, 2020",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1344880/header.jpg?t=1600445907",
+		"platforms": ["steam", "itch"],
+		"links": [
+			"https://store.steampowered.com/app/1344880/Finders_Keepers/",
+			"https://brainchild.itch.io/finders-keepers"
+		],
+		"ytlink": ""
+	},
+	{
+		"title": "Night Reverie",
+		"desc": "Night Reverie is a Puzzle/Adventure game in which a child must solve the mystery behind the distortion of his house. Explore puzzle-filled environments and discover strange creatures living in the house as you reach the truth behind of what looks like a bizarre nightmare.",
+		"stream": "October 24, 2020",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1254670/header.jpg?t=1602089165",
+		"platforms": ["steam"],
+		"links": ["https://store.steampowered.com/app/1254670/Night_Reverie/"],
+		"ytlink": ""
+	},
+	{
+		"title": "Down in Bermuda",
+		"desc": "An unnatural storm leaves an adventurous aviator stranded for decades within the infamous Bermuda. Overcome creatures of the deep and unravel the islands secrets in search of a way back home.",
+		"stream": "October 24, 2020",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1107300/header.jpg?t=1602024359",
+		"platforms": ["steam"],
+		"links": ["https://store.steampowered.com/app/1107300/Down_in_Bermuda/"],
+		"ytlink": ""
 	}
 ]
