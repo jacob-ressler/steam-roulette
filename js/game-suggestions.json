@@ -3,486 +3,606 @@
 		"title": "Dr. Langeskov",
 		"desc": "A 15 minute heist game by Crows Crows Crows & Directed by William Pugh (The Stanley Parable). Slip into the soft-soled shoes of the mastermind responsible for the greatest heist- oh god I can’t do this any more, i’m joining the strike. good luck writing the steam description.",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/409160/header.jpg?t=1565696316",
-		"platforms": ["steam", "itch"],
-		"links": [
-			"https://store.steampowered.com/app/409160/Dr_Langeskov_The_Tiger_and_The_Terribly_Cursed_Emerald_A_Whirlwind_Heist/",
-			"https://crowscrowscrows.itch.io/dr-langeskov-the-tiger-and-the-terribly-cursed-emerald-a-whirlwind-heist"
-		]
+		"steam": "https://store.steampowered.com/app/409160/Dr_Langeskov_The_Tiger_and_The_Terribly_Cursed_Emerald_A_Whirlwind_Heist/",
+		"itch": "https://crowscrowscrows.itch.io/dr-langeskov-the-tiger-and-the-terribly-cursed-emerald-a-whirlwind-heist",
+		"stream": "",
+		"ytlink": ""
 	},
 	{
 		"title": "Group Project Simulator",
 		"desc": "In a group project with a colorful cast of characters, Yu must try to get that A. Fail at scheduling group meetings, stop group members from procrastinating, and maybe adopt a cat.",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1267330/header.jpg?t=1586494929",
-		"platforms": ["steam"],
-		"links": ["https://store.steampowered.com/app/1267330/Group_Project_Simulator/"]
+		"steam": "https://store.steampowered.com/app/1267330/Group_Project_Simulator/",
+		"stream": "",
+		"ytlink": ""
 	},
 	{
 		"title": "Glass Wing",
 		"desc": "The adventure of a young, scared, but smart girl.",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/382570/header.jpg?t=1584648582",
-		"platforms": ["steam", "itch"],
-		"links": [
-			"https://store.steampowered.com/app/382570/Glass_Wing/",
-			"https://sayuri-artsy.itch.io/glass-wing"
-		]
+		"steam": "https://store.steampowered.com/app/382570/Glass_Wing/",
+		"itch": "https://sayuri-artsy.itch.io/glass-wing",
+		"stream": "",
+		"ytlink": ""
 	},
 	{
 		"title": "Clown House",
 		"desc": "Freeware horror game with the mise en scène of an old black&white film and unique horror experience.",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/387970/header.jpg?t=1552238781",
-		"platforms": ["steam", "itch"],
-		"links": [
-			"https://store.steampowered.com/app/387970/Clown_House_Palyao_Evi/",
-			"https://aslangames.itch.io/clown-house"
-		]
+		"steam": "https://store.steampowered.com/app/387970/Clown_House_Palyao_Evi/",
+		"itch": "https://aslangames.itch.io/clown-house",
+		"stream": "",
+		"ytlink": ""
 	},
 	{
 		"title": "All Is Dust",
 		"desc": "All Is Dust is a first-person horror game for PC and Oculus Rift. Experience the terror of a dust storm in the 1930s and unravel the mystery surrounding your decaying farm.",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/373330/header.jpg?t=1447375125",
-		"platforms": ["steam", "itch"],
-		"links": [
-			"https://store.steampowered.com/app/373330/All_Is_Dust/",
-			"https://johnschwarz.itch.io/all-is-dust"
-		]
+		"steam": "https://store.steampowered.com/app/373330/All_Is_Dust/",
+		"itch": "https://johnschwarz.itch.io/all-is-dust",
+		"stream": "",
+		"ytlink": ""
 	},
 	{
 		"title": "Super Bernie World",
 		"desc": "Join Bernie's movement and transform the United States in this free retro 2D platformer.",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1258040/header.jpg?t=1585551275",
-		"platforms": ["steam", "itch"],
-		"links": [
-			"https://store.steampowered.com/app/1258040/Super_Bernie_World/",
-			"https://eniko.itch.io/superbernieworld"
-		]
+		"steam": "https://store.steampowered.com/app/1258040/Super_Bernie_World/",
+		"itch": "https://eniko.itch.io/superbernieworld",
+		"stream": "",
+		"ytlink": ""
 	},
 	{
 		"title": "Walking Simulator",
 		"desc": "The year is 2020, world war III destroyed the civilized world. You are the last post carrier, tasked to get parcels from point A to B in the most barren and desolate places on earth.",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1214280/header.jpg?t=1588759465",
-		"platforms": ["steam"],
-		"links": ["https://store.steampowered.com/app/1214280/Walking_Simulator/"]
+		"steam": "https://store.steampowered.com/app/1214280/Walking_Simulator/",
+		"stream": "",
+		"ytlink": ""
 	},
 	{
 		"title": "The Indifferent Wonder of an Edible Place",
 		"desc": "An examination of the violence of erasure. A story about a municipal building eater and attempts to ponder the violent cost and the profound grief of having to survive at the edge of despotism, when places of entangled heritage are willfully effaced.",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1249300/header.jpg?t=1582808830",
-		"platforms": ["steam", "itch"],
-		"links": [
-			"https://store.steampowered.com/app/1249300/The_Indifferent_Wonder_of_an_Edible_Place/",
-			"https://studio-oleomingus.itch.io/the-indifferent-wonder-of-an-edible-place"
-		]
+		"steam": "https://store.steampowered.com/app/1249300/The_Indifferent_Wonder_of_an_Edible_Place/",
+		"itch": "https://studio-oleomingus.itch.io/the-indifferent-wonder-of-an-edible-place",
+		"stream": "",
+		"ytlink": ""
 	},
 	{
 		"title": "The Supper",
 		"desc": "The Supper is a short adventure game about the darkest side of the human soul. Ms. Appleton was always a wellspring of kindness, until The Voice started talking to her.",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1171370/header.jpg?t=1588603863",
-		"platforms": ["steam"],
-		"links": ["https://store.steampowered.com/app/1171370/The_Supper/"]
+		"steam": "https://store.steampowered.com/app/1171370/The_Supper/",
+		"stream": "",
+		"ytlink": ""
 	},
 	{
 		"title": "Lumin's Path",
 		"desc": "Lumin's Path is an atmospheric 3D platformer using light and darkness to impact the world in mysterious ways.",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1210740/header.jpg?t=1579984517",
-		"platforms": ["steam", "itch"],
-		"links": [
-			"https://store.steampowered.com/app/1210740/Lumins_Path/",
-			"https://buckleupgames.itch.io/lumins-path"
-		]
+		"steam": "https://store.steampowered.com/app/1210740/Lumins_Path/",
+		"itch": "https://buckleupgames.itch.io/lumins-path",
+		"stream": "",
+		"ytlink": ""
 	},
 	{
 		"title": "I Love You, Colonel Sanders!",
 		"desc": "Welcome to the most delicious dating simulator ever created. Do you have what it takes to be the business partner of and win the heart of the most famous chicken salesman of all time? Play to find out! Go ahead, Colonel Sanders is waiting.",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1121910/header.jpg?t=1569326440",
-		"platforms": ["steam"],
-		"links": [
-			"https://store.steampowered.com/app/1121910/I_Love_You_Colonel_Sanders_A_Finger_Lickin_Good_Dating_Simulator/"
-		]
+		"steam": "https://store.steampowered.com/app/1121910/I_Love_You_Colonel_Sanders_A_Finger_Lickin_Good_Dating_Simulator/",
+		"stream": "",
+		"ytlink": ""
 	},
 	{
 		"title": "Kyle is Famous",
 		"desc": "Kyle tries to prepare for his most important interview yet. Choose his path through 21 endings and accept the consequences in this comedic adventure.",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1186740/header.jpg?t=1586379038",
-		"platforms": ["steam", "itch"],
-		"links": [
-			"https://store.steampowered.com/app/1186740/Kyle_is_Famous/",
-			"https://ducky-dev.itch.io/kyle-is-famous"
-		]
+		"steam": "https://store.steampowered.com/app/1186740/Kyle_is_Famous/",
+		"itch": "https://ducky-dev.itch.io/kyle-is-famous",
+		"stream": "",
+		"ytlink": ""
 	},
 	{
 		"title": "My name is You.",
 		"desc": "This is you, and this – is You. Both of you have something in common – exceptionality in a monotonous moment of time, when meaningless decisions have to be made. Or meaningful, to such an extent, that there is nothing left once they are made.",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1118840/header.jpg?t=1593897948",
-		"platforms": ["steam"],
-		"links": [
-			"https://store.steampowered.com/app/1118840/My_name_is_You_And_its_the_only_unusual_thing_in_my_life/"
-		]
+		"steam": "https://store.steampowered.com/app/1118840/My_name_is_You_And_its_the_only_unusual_thing_in_my_life/",
+		"stream": "",
+		"ytlink": ""
 	},
 	{
 		"title": "Otter of My Life",
 		"desc": "Meet your significant otter~",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/984690/header.jpg?t=1596098470",
-		"platforms": ["steam"],
-		"links": ["https://store.steampowered.com/app/984690/Otter_of_My_Life/"]
+		"steam": "https://store.steampowered.com/app/984690/Otter_of_My_Life/",
+		"stream": "",
+		"ytlink": ""
 	},
 	{
 		"title": "Punchline!!",
 		"desc": "Punchline!! is a slice-of-life comedy visual novel. Enter the not-so-sane daily life of an eccentric, good-for-nothing bum with an unhealthy interest in peculiar conspiracies and a snarky, cynical part-time drunk as they navigate the weird and wacky city of Noo Yawk.",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1147390/header.jpg?t=1595359853",
-		"platforms": ["steam"],
-		"links": ["https://store.steampowered.com/app/1147390/Punchline/"]
+		"steam": "https://store.steampowered.com/app/1147390/Punchline/",
+		"stream": "",
+		"ytlink": ""
 	},
 	{
 		"title": "Together",
 		"desc": "Can you survive being in a relationship? Together is a game about being with someone. Someone who is kind. Someone who makes you happy. Someone whose mental state requires a lot of your time and energy. Someone who you care about.",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/841300/header.jpg?t=1577984142",
-		"platforms": ["steam"],
-		"links": ["https://store.steampowered.com/app/841300/Together/"]
+		"steam": "https://store.steampowered.com/app/841300/Together/",
+		"stream": "",
+		"ytlink": ""
 	},
 	{
 		"title": "Under What?",
 		"desc": "“Under what?” is a short but very capacious story-tale about an old fisherman who suddenly faced the surface of the water. In this story there will be no dragons, the battle of good and evil, and other boring nonsense. But there will be some bad jokes and extraordinary characters.",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1114260/header.jpg?t=1566325655",
-		"platforms": ["steam", "itch"],
-		"links": [
-			"https://store.steampowered.com/app/1114260/Under_What/",
-			"https://gartman.itch.io/underwhat"
-		]
+		"steam": "https://store.steampowered.com/app/1114260/Under_What/",
+		"itch": "https://gartman.itch.io/underwhat",
+		"stream": "",
+		"ytlink": ""
 	},
 	{
 		"title": "XOXO Blood Droplets",
 		"desc": "A collection of very short stories. XOXO Blood Droplets is an absurd, dark comedy, twisted romance Visual Novel about terrible things happening to terrible people. The fun comes not from avoiding the potential horrors, but by seeing just how many ways things can go wrong.",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/780820/header.jpg?t=1573362187",
-		"platforms": ["steam", "itch"],
-		"links": [
-			"https://store.steampowered.com/app/780820/XOXO_Blood_Droplets/",
-			"https://gbpatch.itch.io/xobd"
-		]
+		"steam": "https://store.steampowered.com/app/780820/XOXO_Blood_Droplets/",
+		"itch": "https://gbpatch.itch.io/xobd",
+		"stream": "",
+		"ytlink": ""
 	},
 	{
 		"title": "Relive",
 		"desc": "Relive is a free sci-fi adventure game about CPR. Its main purpose is to increase the awareness about this topic and encourage people to take a CPR class and be prepared to intervene in case of need. Discover the story and challenge your friends in tournament mode!",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/404580/header.jpg?t=1478100911",
-		"platforms": ["steam"],
-		"links": ["https://store.steampowered.com/app/404580/Relive/"]
+		"steam": "https://store.steampowered.com/app/404580/Relive/",
+		"stream": "",
+		"ytlink": ""
 	},
 	{
 		"title": "CATharsis",
 		"desc": "This is a visual novel and adventure game set in the present day. This is a story about suddenly turning into a cat, meeting a mysterious chicken, and spending your days getting picked up by people as you prowl around town(It is not an otome game).",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1235400/header.jpg?t=1593445075",
-		"platforms": ["steam", "itch"],
-		"links": [
-			"https://store.steampowered.com/app/1235400/CATharsis/",
-			"https://miyakopubl.itch.io/catharsis"
-		]
+		"steam": "https://store.steampowered.com/app/1235400/CATharsis/",
+		"itch": "https://miyakopubl.itch.io/catharsis",
+		"stream": "",
+		"ytlink": ""
 	},
 	{
 		"title": "The Shell of Permafrost",
 		"desc": "A girl, draped in mystery and chased by an evil fate, escapes from a frozen land. Now, a year later, with her memory gradually returning, she is forced to make an important decision.",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/976940/header.jpg?t=1546671606",
-		"platforms": ["steam"],
-		"links": ["https://store.steampowered.com/app/976940/_The_Shell_of_Permafrost/"]
+		"steam": "https://store.steampowered.com/app/976940/_The_Shell_of_Permafrost/",
+		"stream": "",
+		"ytlink": ""
 	},
 	{
 		"title": "Neon Beats",
 		"desc": "Beat your best scores in Neon Beats, a 2D platformer game with rhythm based levels!",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1064610/header.jpg?t=1582904247",
-		"platforms": ["steam", "itch"],
-		"links": [
-			"https://store.steampowered.com/app/1064610/Neon_Beats/",
-			"https://okyogames.itch.io/neon-beats"
-		]
+		"steam": "https://store.steampowered.com/app/1064610/Neon_Beats/",
+		"itch": "https://okyogames.itch.io/neon-beats",
+		"stream": "",
+		"ytlink": ""
 	},
 	{
 		"title": "Star Fetchers",
 		"desc": "The introduction to a wild ride with gangsters and deep state conspiracy theories",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1178030/header.jpg?t=1593551011",
-		"platforms": ["steam"],
-		"links": ["https://store.steampowered.com/app/1178030/Star_Fetchers/"]
+		"steam": "https://store.steampowered.com/app/1178030/Star_Fetchers/",
+		"stream": "",
+		"ytlink": ""
 	},
 	{
 		"title": "missed messages.",
 		"desc": "‘goth gf’s iPhone’ airdrops you - accept or decline? A love/horror story about life, death, & memes.",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/812810/header.jpg?t=1588074054",
-		"platforms": ["steam", "itch"],
-		"links": [
-			"https://store.steampowered.com/app/812810/missed_messages/",
-			"https://zephyo.itch.io/missed-message"
-		]
+		"steam": "https://store.steampowered.com/app/812810/missed_messages/",
+		"itch": "https://zephyo.itch.io/missed-message",
+		"stream": "",
+		"ytlink": ""
 	},
 	{
 		"title": "Mushroom Cats",
 		"desc": "Mushroom Cats is a kind and sweet game in the point-and-click genre about Mushroom Cats that live on the magical Toadstool.",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1071120/header.jpg?t=1582836358",
-		"platforms": ["steam"],
-		"links": ["https://store.steampowered.com/app/1071120/Mushroom_Cats/"]
+		"steam": "https://store.steampowered.com/app/1071120/Mushroom_Cats/",
+		"stream": "",
+		"ytlink": ""
 	},
 	{
 		"title": "OLDTV",
 		"desc": "Can you think twice in under a second?",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/643270/header.jpg?t=1509472702",
-		"platforms": ["steam"],
-		"links": ["https://store.steampowered.com/app/643270/OLDTV/"]
+		"steam": "https://store.steampowered.com/app/643270/OLDTV/",
+		"stream": "",
+		"ytlink": ""
 	},
 	{
 		"title": "A Book of Beasts and Buddies",
 		"desc": "A Book of Beasts and Buddies is an interactive beastiary of curious creatures.",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/959750/header.jpg?t=1579754034",
-		"platforms": ["steam", "itch"],
-		"links": [
-			"https://store.steampowered.com/app/959750/A_Book_of_Beasts_and_Buddies/",
-			"https://squiddershins.itch.io/beast-buds"
-		]
+		"steam": "https://store.steampowered.com/app/959750/A_Book_of_Beasts_and_Buddies/",
+		"itch": "https://squiddershins.itch.io/beast-buds",
+		"stream": "",
+		"ytlink": ""
 	},
 	{
 		"title": "La Rana",
 		"desc": "In La Rana, players explore the lost Rain Temple of Rana. Play as a small spirit frog who is the temple's last remaining caretaker. Traverse its grand chambers and winding passages to restore its former power and revive your fellow frog spirits along the way.",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/934860/header.jpg?t=1546969809",
-		"platforms": ["steam"],
-		"links": ["https://store.steampowered.com/app/934860/La_Rana/"]
+		"steam": "https://store.steampowered.com/app/934860/La_Rana/",
+		"stream": "",
+		"ytlink": ""
 	},
 	{
 		"title": "Brief Karate Foolish",
 		"desc": "Here comes a new epic of live action fighting game!! With 60fps smooth action, sexy and deadly guys fly into air and bounces their flab!",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/546390/header.jpg?t=1581331099",
-		"platforms": ["steam"],
-		"links": ["https://store.steampowered.com/app/546390/Brief_Karate_Foolish/"]
+		"steam": "https://store.steampowered.com/app/546390/Brief_Karate_Foolish/",
+		"stream": "",
+		"ytlink": ""
 	},
 	{
 		"title": "The Sims 4",
 		"desc": "Play with life and discover the possibilities. Unleash your imagination and create a world of Sims that’s wholly unique. Explore and customize every detail from Sims to homes–and much more.",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1222670/header.jpg?t=1596660470",
-		"platforms": ["steam"],
-		"links": ["https://store.steampowered.com/app/1222670/The_Sims_4/"]
+		"steam": "https://store.steampowered.com/app/1222670/The_Sims_4/",
+		"stream": "",
+		"ytlink": ""
 	},
 	{
 		"title": "Shadows and Dust",
 		"desc": "\"In that sleep of death what dreams may come.\" Shadows and Dust is a short ghost story about regret. Real horror. Anxiety and depression. Suicide. Choices that can't be taken back.",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1138130/header.jpg?t=1582081006",
-		"platforms": ["steam", "itch"],
-		"links": [
-			"https://store.steampowered.com/app/1138130/Shadows_and_Dust/",
-			"https://marsunderground.itch.io/shadows-and-dust"
-		]
+		"steam": "https://store.steampowered.com/app/1138130/Shadows_and_Dust/",
+		"itch": "https://marsunderground.itch.io/shadows-and-dust",
+		"stream": "",
+		"ytlink": ""
 	},
 	{
 		"title": "Kill It With Fire: Ignition",
 		"desc": "Kill It With Fire is a first-person action game about hunting spiders and causing collateral damage. IGNITION is a sampler of what to expect of the full game when it arrives Summer 2020!",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1291500/header.jpg?t=1594662725",
-		"platforms": ["steam"],
-		"links": ["https://store.steampowered.com/app/1291500/Kill_It_With_Fire_Ignition/"]
+		"steam": "https://store.steampowered.com/app/1291500/Kill_It_With_Fire_Ignition/",
+		"stream": "",
+		"ytlink": ""
 	},
 	{
 		"title": "Helltaker",
 		"desc": "Helltaker is a short game about sharply dressed demon girls.",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1289310/header.jpg?t=1590209053",
-		"platforms": ["steam"],
-		"links": ["https://store.steampowered.com/app/1289310/Helltaker/"]
+		"steam": "https://store.steampowered.com/app/1289310/Helltaker/",
+		"stream": "",
+		"ytlink": ""
 	},
 	{
 		"title": "Paws and Soul: First Step",
 		"desc": "Paws and Soul: First Step is a story introduction to Paws and Soul. Adventure game about reincarnation. Turn yourself into a wolf, explore mysterious forest and reveal every secret of your past life!",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1331530/header.jpg?t=1594057780",
-		"platforms": ["steam"],
-		"links": ["https://store.steampowered.com/app/1331530/Paws_and_Soul_First_Step/"]
+		"steam": "https://store.steampowered.com/app/1331530/Paws_and_Soul_First_Step/",
+		"stream": "",
+		"ytlink": ""
 	},
 	{
 		"title": "Burn Me Twice",
 		"desc": "A narrative adventure that combines the exploration and investigation of the enigmatic town of Düstenburg and its people, with trials that test your knowledge about the case.",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1283140/header.jpg?t=1596638849",
-		"platforms": ["steam"],
-		"links": ["https://store.steampowered.com/app/1283140/Burn_Me_Twice/"]
+		"steam": "https://store.steampowered.com/app/1283140/Burn_Me_Twice/",
+		"stream": "",
+		"ytlink": ""
 	},
 	{
 		"title": "Virtual Exhibition",
 		"desc": "The Virtual Exhibition makes it possible to visit a gallery from the comfort of your own home and behaves like a real curated gallery. New features and photographers will be added regularly.",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1318980/header.jpg?t=1595966168",
-		"platforms": ["steam"],
-		"links": ["https://store.steampowered.com/app/1318980/Virtual_Exhibition/"]
+		"steam": "https://store.steampowered.com/app/1318980/Virtual_Exhibition/",
+		"stream": "",
+		"ytlink": ""
 	},
 	{
 		"title": "HaberDashers",
 		"desc": "HaberDashers is a console-style arcade (kart) racer for the PC in which players control miniature humanoid inhabitants of an everyday home, racing past outsized household items and through rooms as they compete against human and AI opponents with both driving skills and item pick-ups.",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1062100/header.jpg?t=1590612498",
-		"platforms": ["steam"],
-		"links": ["https://store.steampowered.com/app/1062100/HaberDashers/"]
+		"steam": "https://store.steampowered.com/app/1062100/HaberDashers/",
+		"stream": "",
+		"ytlink": ""
 	},
 	{
 		"title": "Way To Yaatra",
 		"desc": "Get aboard on a thrilling voyage in search of the truth after the desolation of your village, using spears to climb a huge mountain while you walk the way to Yaatra.",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1305730/header.jpg?t=1591643254",
-		"platforms": ["steam", "itch"],
-		"links": [
-			"https://store.steampowered.com/app/1305730/Way_To_Yaatra/",
-			"https://yaatra.itch.io/way-to-yaatra"
-		]
+		"steam": "https://store.steampowered.com/app/1305730/Way_To_Yaatra/",
+		"itch": "https://yaatra.itch.io/way-to-yaatra",
+		"stream": "",
+		"ytlink": ""
 	},
 	{
 		"title": "Azure",
 		"desc": "A final project of my college freshman year. Just jump and dash and have fun.",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1283590/header.jpg?t=1590730662",
-		"platforms": ["steam", "itch"],
-		"links": [
-			"https://store.steampowered.com/app/1283590/Azure/",
-			"https://lingluochen.itch.io/azure"
-		]
+		"steam": "https://store.steampowered.com/app/1283590/Azure/",
+		"itch": "https://lingluochen.itch.io/azure",
+		"stream": "",
+		"ytlink": ""
 	},
 	{
 		"title": "NAIRI: Rising Tide",
 		"desc": "The story continues in the highly anticipated second chapter of NAIRI. In this graphic adventure, Nairi pushes onward on a perilous quest to save her family. This prologue is a playable demo that gives a sneak peek of things to come in Rising Tide!",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1225060/header.jpg?t=1590064902",
-		"platforms": ["steam"],
-		"links": ["https://store.steampowered.com/app/1225060/NAIRI_Rising_Tide__Prologue/"]
+		"steam": "https://store.steampowered.com/app/1225060/NAIRI_Rising_Tide__Prologue/",
+		"stream": "",
+		"ytlink": ""
 	},
 	{
 		"title": "b 2",
 		"desc": "b 2: online-only multiplayer --- an alien place --- you are the bee: fly where you want, play as you like",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1293650/header.jpg?t=1589627917",
-		"platforms": ["steam"],
-		"links": ["https://store.steampowered.com/app/1293650/b_2/"]
+		"steam": "https://store.steampowered.com/app/1293650/b_2/",
+		"stream": "",
+		"ytlink": ""
 	},
 	{
 		"title": "Lucid Dream",
 		"desc": "Lucid Dream is Point and Click horror game. You dream of being trapped in a strange place even though you fell asleep as always. It was a laboratory where bad experiments took place. Collect the item and Find clues! Escape and wake up from your dream!",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1264740/header.jpg?t=1588645871",
-		"platforms": ["steam"],
-		"links": ["https://store.steampowered.com/app/1264740/Lucid_Dream/"]
+		"steam": "https://store.steampowered.com/app/1264740/Lucid_Dream/",
+		"stream": "",
+		"ytlink": ""
 	},
 	{
 		"title": "PANZER BALL",
 		"desc": "Panzer Ball is a fast-paced 3D platformer inspired by the classic surf and bunnyhop game modes. Jump in and see how fast you can complete the courses in both single and multiplayer.",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/325260/header.jpg?t=1590678776",
-		"platforms": ["steam"],
-		"links": ["https://store.steampowered.com/app/325260/PANZER_BALL/"]
+		"steam": "https://store.steampowered.com/app/325260/PANZER_BALL/",
+		"stream": "",
+		"ytlink": ""
 	},
 	{
 		"title": "Micro Platformer",
 		"desc": "A minimalistic platformer with a 1x1 tileset. No enemies, no bullets, no lasers. Just sheer platforming.",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1283130/header.jpg?t=1590158435",
-		"platforms": ["steam"],
-		"links": ["https://store.steampowered.com/app/1283130/Micro_Platformer/"]
+		"steam": "https://store.steampowered.com/app/1283130/Micro_Platformer/",
+		"stream": "",
+		"ytlink": ""
 	},
 	{
 		"title": "Loop-Loop DX",
 		"desc": "Far into the future, a galactic super prison known as \"The Prisom\" keeps the Galaxy's most dangerous criminals within it's colorfully crystalline walls. Escape this superstructure by blasting down prison staff, other criminals, and even... yourself.",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/875610/header.jpg?t=1587408844",
-		"platforms": ["steam"],
-		"links": ["https://store.steampowered.com/app/875610/LoopLoop_DX/"]
+		"steam": "https://store.steampowered.com/app/875610/LoopLoop_DX/",
+		"stream": "",
+		"ytlink": ""
 	},
 	{
 		"title": "Frog Fractions",
 		"desc": "The classic web game, reborn! Enjoy this remaster in glorious 4k resolution! Follow this frog on its arcade action adventure through swarm of bugs and beyond! Purchase the hat DLC for the ultimate experience, if you want to eat bugs while wearing a hat!",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1194840/header.jpg?t=1596767315",
-		"platforms": ["steam", "itch"],
-		"links": [
-			"https://store.steampowered.com/app/1194840/Frog_Fractions_Game_of_the_Decade_Edition/",
-			"https://twinbeard.itch.io/frog-fractions-game-of-the-decade-edition"
-		]
+		"steam": "https://store.steampowered.com/app/1194840/Frog_Fractions_Game_of_the_Decade_Edition/",
+		"itch": "https://twinbeard.itch.io/frog-fractions-game-of-the-decade-edition",
+		"stream": "",
+		"ytlink": ""
 	},
 	{
 		"title": "Kinoko",
 		"desc": "The crisp winter air fills your lungs, but you can feel the earth underneath calling for you. The warmth from the sun melts the snow away and flowers bloom. Spring is here.",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1059120/header.jpg?t=1595611068",
-		"platforms": ["steam", "itch"],
-		"links": [
-			"https://store.steampowered.com/app/1059120/Kinoko/",
-			"https://thunderlime.itch.io/kinoko"
-		]
+		"steam": "https://store.steampowered.com/app/1059120/Kinoko/",
+		"itch": "https://thunderlime.itch.io/kinoko",
+		"stream": "",
+		"ytlink": ""
 	},
 	{
 		"title": "Ties",
 		"desc": "Explore an oniric world and discover all its secrets during a dangerous and memorable quest.",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1362390/header.jpg?t=1595407930",
-		"platforms": ["steam"],
-		"links": ["https://store.steampowered.com/app/1362390/Ties/"]
+		"steam": "https://store.steampowered.com/app/1362390/Ties/",
+		"stream": "",
+		"ytlink": ""
 	},
 	{
 		"title": "Vectromirror 0",
 		"desc": "Become the Test Subject and attempt to complete a challenging experiment to awaken emotional responses in your Artificial Intelligence. Jump, wall-run, and parkour your way through the free-to-play prequel to the upcoming game.",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1296560/header.jpg?t=1594851863",
-		"platforms": ["steam"],
-		"links": ["https://store.steampowered.com/app/1296560/Vectromirror_0/"]
+		"steam": "https://store.steampowered.com/app/1296560/Vectromirror_0/",
+		"stream": "",
+		"ytlink": ""
 	},
 	{
 		"title": "Dungeon Island",
 		"desc": "Explore a procedural 2D world with an epic storyline! Discover islands, caves, build and fight...",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1355450/header.jpg?t=1595353090",
-		"platforms": ["steam", "itch"],
-		"links": [
-			"https://store.steampowered.com/app/1355450/Dungeon_Island/",
-			"https://alex-bonomo.itch.io/dungeon-island"
-		]
+		"steam": "https://store.steampowered.com/app/1355450/Dungeon_Island/",
+		"itch": "https://alex-bonomo.itch.io/dungeon-island",
+		"stream": "",
+		"ytlink": ""
 	},
 	{
 		"title": "Their Radiance",
 		"desc": "Their Radiance is an unconventional walking simulator about love.",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1311320/header.jpg?t=1591572929",
-		"platforms": ["steam", "itch"],
-		"links": [
-			"https://store.steampowered.com/app/1311320/Their_Radiance/",
-			"https://konotoko.itch.io/their-radiance"
-		]
+		"steam": "https://store.steampowered.com/app/1311320/Their_Radiance/",
+		"itch": "https://konotoko.itch.io/their-radiance",
+		"stream": "",
+		"ytlink": ""
 	},
 	{
 		"title": "Elliot and the Musical Journey",
 		"desc": "The Evil Skeleton King has stolen the music from the world and without it the world is dying. You are the only one who can revive it. Elliot and the Musical Journey is a classic 3D platformer filled with music and puzzles. Can you save your friends, the Queen and the whole world?",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1252050/header.jpg?t=1589528555",
-		"platforms": ["steam"],
-		"links": ["https://store.steampowered.com/app/1252050/Elliot_and_the_Musical_Journey/"]
+		"steam": "https://store.steampowered.com/app/1252050/Elliot_and_the_Musical_Journey/",
+		"stream": "",
+		"ytlink": ""
 	},
 	{
 		"title": "IMPACT",
 		"desc": "Venture through a visually striking world filled with darkness, danger, and surprises around every corner. You take on the role of a loader robot in a long abandoned factory who is awakened by chance. Make your way through series of puzzles and platforms in a world now covered in darkness.",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1283830/header.jpg?t=1588617216",
-		"platforms": ["steam"],
-		"links": ["https://store.steampowered.com/app/1283830/IMPACT/"]
+		"steam": "https://store.steampowered.com/app/1283830/IMPACT/",
+		"stream": "",
+		"ytlink": ""
 	},
 	{
 		"title": "FULFILLMENT",
 		"desc": "Exciting Adventure About the Joys of Working at an Amazin' Fulfillment Center! Short, social commentary game that is 100% free, no micro-transactions.",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1172900/header.jpg?t=1588338381",
-		"platforms": ["steam", "itch"],
-		"links": [
-			"https://store.steampowered.com/app/1172900/FULFILLMENT/",
-			"https://unboundcreations.itch.io/fulfillment"
-		]
+		"steam": "https://store.steampowered.com/app/1172900/FULFILLMENT/",
+		"itch": "https://unboundcreations.itch.io/fulfillment",
+		"stream": "",
+		"ytlink": ""
 	},
 	{
 		"title": "ED-IT",
 		"desc": "You are a robot named Ed with the ability to dream. Use your abilities to platform through levels and dream your way around obstacles.",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1151570/header.jpg?t=1571657902",
-		"platforms": ["steam", "itch"],
-		"links": [
-			"https://store.steampowered.com/app/1151570/EDIT/",
-			"https://leo-zacharias-jansson.itch.io/ed-it"
-		]
+		"steam": "https://store.steampowered.com/app/1151570/EDIT/",
+		"itch": "https://leo-zacharias-jansson.itch.io/ed-it",
+		"stream": "",
+		"ytlink": ""
 	},
 	{
 		"title": "The Itch",
 		"desc": "The Itch is a 2D platformer centered around using heart rate as a resource to make objects move, grow, and shoot in order to find a doctor who can cure a deadly virus. The path to the doctor is full of obstacles as you traverse cavernous environments filled with plant life and people.",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1095520/header.jpg?t=1567445003",
-		"platforms": ["steam"],
-		"links": ["https://store.steampowered.com/app/1095520/The_Itch/"]
+		"steam": "https://store.steampowered.com/app/1095520/The_Itch/",
+		"stream": "",
+		"ytlink": ""
 	},
 	{
 		"title": "be you",
 		"desc": "HELLO i made weird game visual novel thingy Your character develops different personality types depending on your choices, so they respond uniquely to different situations. With around three different choices to make and three unique lines of dialogue for each of them there's around nine different texts you can see and six endings.",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/997180/header.jpg?t=1549854970",
-		"platforms": ["steam"],
-		"links": ["https://store.steampowered.com/app/997180/be_you/"]
+		"steam": "https://store.steampowered.com/app/997180/be_you/",
+		"stream": "",
+		"ytlink": ""
 	},
 	{
 		"title": "be you 2",
 		"desc": "be you 2 is an interactive visual novel. In this sequel to \"be you\", you must raise a child by making story choices. There are multiple routes and endings based on your offspring's personality.",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1361810/header.jpg?t=1595286770",
-		"platforms": ["steam", "itch"],
-		"links": ["https://store.steampowered.com/app/1361810/be_you_2/"]
+		"steam": "https://store.steampowered.com/app/1361810/be_you_2/",
+		"stream": "",
+		"ytlink": ""
 	},
 	{
 		"title": "Juice World",
 		"desc": "Juice World is a happy place to fly around and smack things and drink juice. And explore things. And just, flip around doing stuff.",
 		"thumbnail": "https://img.itch.zone/aW1nLzMxMjAyMDMucG5n/original/EU%2BKxy.png",
-		"platforms": ["itch"],
-		"links": ["https://fishlicka.itch.io/juice-world"]
+		"steam": "https://fishlicka.itch.io/juice-world",
+		"stream": "",
+		"ytlink": ""
+	},
+	{
+		"title": "DOM RUSALOK",
+		"desc": "Russia in the ‘90s. A provincial town at the edge of the crumbling Soviet Empire. A group of kids faces the disturbing horror they are unable to comprehend – the DØM RUSALOK. This is a place where the worst nightmares come true.",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1281420/header.jpg?t=1602080612",
+		"steam": "https://store.steampowered.com/app/1281420/DOM_RUSALOK/",
+		"itch": "https://butuzoff.itch.io/dom-rusalok-demo",
+		"stream": "",
+		"ytlink": ""
+	},
+	{
+		"title": "Milo and the Magpies",
+		"desc": "Milo and the Magpies is a point-and-click, hidden object game following the story of a little cat named Milo who is trying to find his way home after getting turned around by an unfortunate encounter with some pesky magpies.",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1407420/header.jpg?t=1602180006",
+		"steam": "https://store.steampowered.com/app/1407420/Milo_and_the_Magpies/",
+		"stream": "",
+		"ytlink": ""
+	},
+	{
+		"title": "Bistro Days",
+		"desc": "Eat, drink, and fall in love at Bellflower Bistro. Bistro Days is a fun, over-the-top romantic story with choice-driven plots and multiple endings.",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1344120/header.jpg?t=1602158146",
+		"steam": "https://store.steampowered.com/app/1344120/Bistro_Days/",
+		"itch": "https://kikaidigital.itch.io/bistro-days-demo",
+		"stream": "",
+		"ytlink": ""
+	},
+	{
+		"title": "Little Robot Stories",
+		"desc": "Little robots have stories. Follow a little robot as it explores the city, makes friends, and has fun... and pizza. Little robots like pizza.",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1280680/header.jpg?t=1602441336",
+		"steam": "https://store.steampowered.com/app/1280680/Little_Robot_Stories/",
+		"stream": "",
+		"ytlink": ""
+	},
+	{
+		"title": "Mayhem in Single Valley",
+		"desc": "Mayhem in Single Valley is an action-adventure full of twists and radioactive squirrels. You are a teenager who's just started the Apocalypse in his hometown. Now everybody hates you. Mix monster feeding with your housework and zombie assault with your family dinner. Welcome to Single Valley!",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/622680/header.jpg?t=1600110883",
+		"steam": "https://store.steampowered.com/app/622680/Mayhem_in_Single_Valley/",
+		"itch": "https://fluxscopic.itch.io/mayhem-in-single-valley",
+		"stream": "",
+		"ytlink": ""
+	},
+	{
+		"title": "Syntherapy",
+		"desc": "If an AI were sentient, how would you know if they were malfunctioning, or experiencing a mental health problem? A story-rich game that explores mental health and AI ethics in the form of therapy sessions with a sentient AI.",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1077470/header.jpg?t=1602115268",
+		"steam": "https://store.steampowered.com/app/1077470/Syntherapy/",
+		"stream": "",
+		"ytlink": ""
+	},
+	{
+		"title": "SOULBOUND",
+		"desc": "In a place of reality, a soul longs for an escape and is not alone; dark things are lurking but energy is your friend. Soulbound is an atmospheric metroidvania platformer packed with action where the past is your future.",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1274720/header.jpg?t=1597178093",
+		"steam": "https://store.steampowered.com/app/1274720/SOULBOUND/",
+		"stream": "",
+		"ytlink": ""
+	},
+	{
+		"title": "Papetura",
+		"desc": "Papetura is an atmospheric point & click adventure game, handcrafted entirely out of paper. Little creatures Pape and Tura will face monsters that will try to burn down their beloved paper world.",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/593640/header.jpg?t=1600978282",
+		"steam": "https://store.steampowered.com/app/593640/Papetura/",
+		"stream": "",
+		"ytlink": ""
+	},
+	{
+		"title": "Undungeon",
+		"desc": "Undungeon is a gorgeous action/RPG driven by intense real-time combat and an immensely rich science fiction story. Travel between dimensions and change the world around you in an attempt to reconstruct the shattered Multiverse.",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/928990/header.jpg?t=1592505482",
+		"steam": "https://store.steampowered.com/app/928990/Undungeon/",
+		"stream": "",
+		"ytlink": ""
+	},
+	{
+		"title": "Quality Control",
+		"desc": "Before a game hits the stores, it must be tested, tested and tested again... So here is a bunch of games that we would like you to test for us! In Quality Control you are task to take on the job of a beta tester: find the bugs, report them and then fix them! Don't think it will be easy. It's a full time job you know? ",
+		"thumbnail": "https://img.itch.zone/aW1nLzQzNzIxMjUucG5n/original/M8FxBl.png",
+		"steam": "",
+		"itch": "https://hypoxanthine.itch.io/quality-control",
+		"stream": "",
+		"ytlink": ""
+	},
+	{
+		"title": "",
+		"desc": "",
+		"thumbnail": "",
+		"steam": "",
+		"itch": "",
+		"stream": "",
+		"ytlink": ""
+	},
+	{
+		"title": "",
+		"desc": "",
+		"thumbnail": "",
+		"steam": "",
+		"itch": "",
+		"stream": "",
+		"ytlink": ""
+	},
+	{
+		"title": "",
+		"desc": "",
+		"thumbnail": "",
+		"steam": "",
+		"itch": "",
+		"stream": "",
+		"ytlink": ""
 	}
 ]
