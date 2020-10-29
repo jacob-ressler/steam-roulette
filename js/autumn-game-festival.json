@@ -1,183 +1,77 @@
 [
 	{
-		"title": "Raji: Prologue",
-		"desc": "A young girl named Raji has been chosen by the gods to stand against the demonic invasion of the human realm. Her destiny? To rescue her younger brother and face the demon lord Mahabalasura.",
-		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/730390/header.jpg?t=1602591995",
-		"platforms": ["steam", "itch"],
-		"links": [
-			"https://store.steampowered.com/app/1429740/Raji_Prologue/",
-			"https://rajithegame.itch.io/raji-an-ancient-epic"
-		]
-	},
-	{
-		"title": "Turnip Boy Commits Tax Evasion",
-		"desc": "Play as an adorable yet trouble-making turnip. Avoid paying taxes, solve plantastic puzzles, harvest crops and take on massive beasts all in a journey to tear down a corrupt vegetable government!",
-		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1205450/header.jpg?t=1601578258",
-		"platforms": ["steam", "itch"],
-		"links": [
-			"https://store.steampowered.com/app/1205450/Turnip_Boy_Commits_Tax_Evasion/",
-			"https://yukonw.itch.io/tbcte"
-		]
-	},
-	{
 		"title": "DOM RUSALOK",
 		"desc": "Russia in the ‘90s. A provincial town at the edge of the crumbling Soviet Empire. A group of kids faces the disturbing horror they are unable to comprehend – the DØM RUSALOK. This is a place where the worst nightmares come true.",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1281420/header.jpg?t=1602080612",
-		"platforms": ["steam", "itch"],
-		"links": [
-			"https://store.steampowered.com/app/1281420/DOM_RUSALOK/",
-			"https://butuzoff.itch.io/dom-rusalok-demo"
-		]
+		"steam": "https://store.steampowered.com/app/1281420/DOM_RUSALOK/",
+		"itch": "https://butuzoff.itch.io/dom-rusalok-demo",
+		"stream": "",
+		"ytlink": ""
 	},
 	{
 		"title": "Milo and the Magpies",
 		"desc": "Milo and the Magpies is a point-and-click, hidden object game following the story of a little cat named Milo who is trying to find his way home after getting turned around by an unfortunate encounter with some pesky magpies.",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1407420/header.jpg?t=1602180006",
-		"platforms": ["steam"],
-		"links": ["https://store.steampowered.com/app/1407420/Milo_and_the_Magpies/"]
-	},
-	{
-		"title": "Say No! More",
-		"desc": "Say No! More is a narrative No!-them up about saying \"No!\" and a stolen lunchbox. Defend yourself against mean co-workers and bosses, discover the \"Power of Friendship\" and learn to say \"No!\" more!",
-		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1191900/header.jpg?t=1602174062",
-		"platforms": ["steam"],
-		"links": ["https://store.steampowered.com/app/1191900/Say_No_More/"]
-	},
-	{
-		"title": "Temple of Snek",
-		"desc": "A snaky tile-based puzzle dungeon adventure. Defend the temple, monch the infidels, and grow and grow and grow...",
-		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1208590/header.jpg?t=1602100513",
-		"platforms": ["steam"],
-		"links": ["https://store.steampowered.com/app/1208590/Temple_Of_Snek/"]
-	},
-	{
-		"title": "Whateverland",
-		"desc": "Welcome to Whateverland, a prison for lost souls, where everyone gets what they truly deserve! This not so classic point-n-click will take you on an adventure through the bizarrely beautiful hand-drawn world. And you’re the only one who decides what kind of story it's going to be!",
-		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1175840/header.jpg?t=1602080934",
-		"platforms": ["steam", "itch"],
-		"links": [
-			"https://store.steampowered.com/app/1175840/Whateverland/",
-			"https://caligarigames.itch.io/whateverland-prologue"
-		]
-	},
-	{
-		"title": "Survival Journals",
-		"desc": "Survive with your choices and fortify your safehouse in this text based adventure. The Horde's on it's way, will you be ready when it arrives?",
-		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/792380/header.jpg?t=1601930201",
-		"platforms": ["steam"],
-		"links": ["https://store.steampowered.com/app/792380/Survival_Journals/"]
+		"steam": "https://store.steampowered.com/app/1407420/Milo_and_the_Magpies/",
+		"stream": "",
+		"ytlink": ""
 	},
 	{
 		"title": "Bistro Days",
 		"desc": "Eat, drink, and fall in love at Bellflower Bistro. Bistro Days is a fun, over-the-top romantic story with choice-driven plots and multiple endings.",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1344120/header.jpg?t=1602158146",
-		"platforms": ["steam", "itch"],
-		"links": [
-			"https://store.steampowered.com/app/1344120/Bistro_Days/",
-			"https://kikaidigital.itch.io/bistro-days-demo"
-		]
+		"steam": "https://store.steampowered.com/app/1344120/Bistro_Days/",
+		"itch": "https://kikaidigital.itch.io/bistro-days-demo",
+		"stream": "",
+		"ytlink": ""
 	},
 	{
 		"title": "Little Robot Stories",
 		"desc": "Little robots have stories. Follow a little robot as it explores the city, makes friends, and has fun... and pizza. Little robots like pizza.",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1280680/header.jpg?t=1602441336",
-		"platforms": ["steam"],
-		"links": ["https://store.steampowered.com/app/1280680/Little_Robot_Stories/"]
+		"steam": "https://store.steampowered.com/app/1280680/Little_Robot_Stories/",
+		"stream": "",
+		"ytlink": ""
 	},
 	{
 		"title": "Mayhem in Single Valley",
 		"desc": "Mayhem in Single Valley is an action-adventure full of twists and radioactive squirrels. You are a teenager who's just started the Apocalypse in his hometown. Now everybody hates you. Mix monster feeding with your housework and zombie assault with your family dinner. Welcome to Single Valley!",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/622680/header.jpg?t=1600110883",
-		"platforms": ["steam", "itch"],
-		"links": [
-			"https://store.steampowered.com/app/622680/Mayhem_in_Single_Valley/",
-			"https://fluxscopic.itch.io/mayhem-in-single-valley"
-		]
-	},
-	{
-		"title": "Monster Prom 2: Monster Camp",
-		"desc": "\"Monster Prom 2: Monster Camp\" brings you more of the world's best (and maybe only?) multiplayer dating sim; but in a way you've never expected!",
-		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1140270/header.jpg?t=1601495789",
-		"platforms": ["steam"],
-		"links": ["https://store.steampowered.com/app/1140270/Monster_Prom_2_Monster_Camp/"]
+		"steam": "https://store.steampowered.com/app/622680/Mayhem_in_Single_Valley/",
+		"itch": "https://fluxscopic.itch.io/mayhem-in-single-valley",
+		"stream": "",
+		"ytlink": ""
 	},
 	{
 		"title": "Syntherapy",
 		"desc": "If an AI were sentient, how would you know if they were malfunctioning, or experiencing a mental health problem? A story-rich game that explores mental health and AI ethics in the form of therapy sessions with a sentient AI.",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1077470/header.jpg?t=1602115268",
-		"platforms": ["steam"],
-		"links": ["https://store.steampowered.com/app/1077470/Syntherapy/"]
-	},
-	{
-		"title": "Airhead",
-		"desc": "Help a small body save a head-like organism full of air, from a leak that threatens its life. Explore their Metroidvania style world and overcome challenging environmental puzzles to find the key to the head's survival.",
-		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/771700/header.jpg?t=1602155774",
-		"platforms": ["steam"],
-		"links": ["https://store.steampowered.com/app/771700/Airhead/"]
-	},
-	{
-		"title": "Glitchphobia",
-		"desc": "Immerse yourself into unstable reality. In order to get out you must exploit glitch in a world around you. You can be sure of one thing, any rules you known no longer exist!! Do you have a courage to dip in it?",
-		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1300880/header.jpg?t=1598042936",
-		"platforms": ["steam", "itch"],
-		"links": [
-			"https://store.steampowered.com/app/1300880/Glitchphobia/",
-			"https://biszop.itch.io/glitchphobia"
-		]
-	},
-	{
-		"title": "Blue Fire",
-		"desc": "A Dark World Awaits – travel through the perished world of Penumbra to explore unique areas filled with diverse enemies, sharp 3D platforming challenges, quests, collectibles, and more.",
-		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1220150/header.jpg?t=1602228481",
-		"platforms": ["steam"],
-		"links": ["https://store.steampowered.com/app/1220150/Blue_Fire/"]
-	},
-	{
-		"title": "Lost Keys",
-		"desc": "In Lost Keys, you are a boy who is lost in a place full of dangers, find the keys to open all doors and get to the exit.",
-		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1375640/header.jpg?t=1601322905",
-		"platforms": ["steam", "itch"],
-		"links": [
-			"https://store.steampowered.com/app/1375640/Lost_Keys/",
-			"https://x1studio.itch.io/lost-keys"
-		]
-	},
-	{
-		"title": "EXPOSURE, a game of camouflage",
-		"desc": "A game of camouflage where you can’t see yourself. Change colors to hide, dodge predators, and survive intense bosses in the abstract wilderness of stealth non-bullet hell. Lose the ability to see where you are, and learn to feel and know where you’re going.",
-		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/506110/header.jpg?t=1602201821",
-		"platforms": ["steam"],
-		"links": ["https://store.steampowered.com/app/506110/EXPOSURE_a_game_of_camouflage/"]
+		"steam": "https://store.steampowered.com/app/1077470/Syntherapy/",
+		"stream": "",
+		"ytlink": ""
 	},
 	{
 		"title": "SOULBOUND",
 		"desc": "In a place of reality, a soul longs for an escape and is not alone; dark things are lurking but energy is your friend. Soulbound is an atmospheric metroidvania platformer packed with action where the past is your future.",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1274720/header.jpg?t=1597178093",
-		"platforms": ["steam"],
-		"links": ["https://store.steampowered.com/app/1274720/SOULBOUND/"]
+		"steam": "https://store.steampowered.com/app/1274720/SOULBOUND/",
+		"stream": "",
+		"ytlink": ""
 	},
 	{
 		"title": "Papetura",
 		"desc": "Papetura is an atmospheric point & click adventure game, handcrafted entirely out of paper. Little creatures Pape and Tura will face monsters that will try to burn down their beloved paper world.",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/593640/header.jpg?t=1600978282",
-		"platforms": ["steam"],
-		"links": ["https://store.steampowered.com/app/593640/Papetura/"]
-	},
-	{
-		"title": "Altered",
-		"desc": "Altered is a meditative puzzle game mixing hard puzzles and a soothing atmosphere. Explore a mysterious world filled with challenging puzzles solving them by altering your characters in multiple ways, forcing you to think outside the box.",
-		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/973250/header.jpg?t=1602229181",
-		"platforms": ["steam", "itch"],
-		"links": [
-			"https://store.steampowered.com/app/973250/Altered/",
-			"https://glitchheart.itch.io/altered"
-		]
+		"steam": "https://store.steampowered.com/app/593640/Papetura/",
+		"stream": "",
+		"ytlink": ""
 	},
 	{
 		"title": "Undungeon",
 		"desc": "Undungeon is a gorgeous action/RPG driven by intense real-time combat and an immensely rich science fiction story. Travel between dimensions and change the world around you in an attempt to reconstruct the shattered Multiverse.",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/928990/header.jpg?t=1592505482",
-		"platforms": ["steam"],
-		"links": ["https://store.steampowered.com/app/928990/Undungeon/"]
+		"steam": "https://store.steampowered.com/app/928990/Undungeon/",
+		"stream": "",
+		"ytlink": ""
 	}
 ]
