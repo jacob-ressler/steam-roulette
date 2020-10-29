@@ -4,11 +4,8 @@
 		"desc": "TREE tells a story of a relationship between a boy and his tree. What starts off as a simple connection, over time it grows into something deeper.",
 		"stream": "April 21, 2020",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/888090/header.jpg",
-		"platforms": ["steam", "itch"],
-		"links": [
-			"https://store.steampowered.com/app/888090/TREE/",
-			"https://thestrangers.itch.io/tree"
-		],
+		"steam": "https://store.steampowered.com/app/888090/TREE/",
+		"itch": "https://thestrangers.itch.io/tree",
 		"ytlink": "https://youtu.be/EOTUBaHHdcM?t=790"
 	},
 	{
@@ -16,11 +13,8 @@
 		"desc": "How do you see the world when nothing is real?",
 		"stream": "April 21, 2020",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1194740/header.jpg",
-		"platforms": ["steam", "itch"],
-		"links": [
-			"https://store.steampowered.com/app/1194740/MetaWare_High_School_Demo/",
-			"https://not-fun-games.itch.io/metaware-high-school"
-		],
+		"steam": "https://store.steampowered.com/app/1194740/MetaWare_High_School_Demo/",
+		"itch": "https://not-fun-games.itch.io/metaware-high-school",
 		"ytlink": "https://youtu.be/EOTUBaHHdcM?t=1738"
 	},
 	{
@@ -28,11 +22,8 @@
 		"desc": "Harold Fletcher has been grounded to his bedroom for over 30 years. Join award-winning journalist Nigel Wimble as he discovers how one man has coped with the boredom and loneliness in this one of a kind, FREE, documentary film simulator!",
 		"stream": "April 21, 2020",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/797390/header.jpg",
-		"platforms": ["steam", "itch"],
-		"links": [
-			"https://store.steampowered.com/app/797390/How_To_Cope_With_Boredom_and_Loneliness/",
-			"https://pointbleepstudios.itch.io/how-to-cope-with-boredom-and-loneliness-a-guide-for-the-isolated-a-documentary-f"
-		],
+		"steam": "https://store.steampowered.com/app/797390/How_To_Cope_With_Boredom_and_Loneliness/",
+		"itch": "https://pointbleepstudios.itch.io/how-to-cope-with-boredom-and-loneliness-a-guide-for-the-isolated-a-documentary-f",
 		"ytlink": "https://youtu.be/EOTUBaHHdcM?t=9270"
 	},
 	{
@@ -40,8 +31,7 @@
 		"desc": "So obvious and typical story, just puzzle and dodge traps. (English version will be provided soon.",
 		"stream": "April 21, 2020",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1240120/header.jpg",
-		"platforms": ["steam"],
-		"links": ["https://store.steampowered.com/app/1240120/Typical_Cliche/"],
+		"steam": "https://store.steampowered.com/app/1240120/Typical_Cliche/",
 		"ytlink": "https://youtu.be/EOTUBaHHdcM?t=10819"
 	},
 	{
@@ -49,8 +39,7 @@
 		"desc": "In this game, you will play as Stefan Pierce, a teenager who suffers memory loss which makes him remember nothing but his name. Now let's find out what is exactly happen to you!",
 		"stream": "April 21, 2020",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1181490/header.jpg",
-		"platforms": ["steam"],
-		"links": ["https://store.steampowered.com/app/1181490/Blue_Lemon/"],
+		"steam": "https://store.steampowered.com/app/1181490/Blue_Lemon/",
 		"ytlink": "https://youtu.be/EOTUBaHHdcM?t=11216"
 	},
 	{
@@ -58,8 +47,7 @@
 		"desc": "Unify a broken community as the newly-appointed Guardian of The Grove. Traverse a vibrant island to combat invasive Rot, inspire its inhabitants, and rebuild your home. You won't have to do this alone: fruity friends await, ready to lend a hand!",
 		"stream": "April 28, 2020",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1062140/header.jpg",
-		"platforms": ["steam"],
-		"links": ["https://store.steampowered.com/app/1062140/Garden_Story/"],
+		"steam": "https://store.steampowered.com/app/1062140/Garden_Story/",
 		"ytlink": "https://youtu.be/4Gp68mw82M0?t=8320"
 	},
 	{
@@ -67,8 +55,7 @@
 		"desc": "Play as Lina, the last human driver-for hire searching for her missing friend in the neon streets of Los Ojos. In this interactive story, you’ll meet unique passengers during your nightly shifts, each with their own clues and secrets, if you can get them to share.",
 		"stream": "April 28, 2020",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/794540/header.jpg",
-		"platforms": ["steam"],
-		"links": ["https://store.steampowered.com/app/794540/Neo_Cab/"],
+		"steam": "https://store.steampowered.com/app/794540/Neo_Cab/",
 		"ytlink": "https://youtu.be/4Gp68mw82M0?t=10148"
 	},
 	{
@@ -76,11 +63,8 @@
 		"desc": "Unravel a thrilling mystery by exploring a strange and twisted mansion, discovering curious clues, interrogating peculiar suspects and solving unique puzzles. Will you be able to uncover the secrets of Tangle Tower?",
 		"stream": "April 28, 2020",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/359510/header.jpg",
-		"platforms": ["steam", "itch"],
-		"links": [
-			"https://store.steampowered.com/app/359510/Tangle_Tower/",
-			"https://sfbgames.itch.io/tangle-tower"
-		],
+		"steam": "https://store.steampowered.com/app/359510/Tangle_Tower/",
+		"itch": "https://sfbgames.itch.io/tangle-tower",
 		"ytlink": "https://youtu.be/4Gp68mw82M0?t=11385"
 	},
 	{
@@ -88,11 +72,8 @@
 		"desc": "A Camping Story starring: Uncle Brad, Aunt Cloanne, Mord (and Ben)",
 		"stream": "April 28, 2020",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1198040/header.jpg",
-		"platforms": ["steam", "itch"],
-		"links": [
-			"https://store.steampowered.com/app/1198040/Wide_Ocean_Big_Jacket/",
-			"https://turnfollow.itch.io/wide-ocean-big-jacket"
-		],
+		"steam": "https://store.steampowered.com/app/1198040/Wide_Ocean_Big_Jacket/",
+		"itch": "https://turnfollow.itch.io/wide-ocean-big-jacket",
 		"ytlink": "https://youtu.be/4Gp68mw82M0?t=13005"
 	},
 	{
@@ -100,8 +81,7 @@
 		"desc": "Backbone is a noir roleplaying detective adventure. You are raccoon private eye Howard Lotor, a second-class citizen of dystopian Vancouver, BC inhabited by animals. Interrogate a diverse cast of characters, collect evidence, and choose which leads to follow.",
 		"stream": "April 28, 2020",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/865610/header.jpg",
-		"platforms": ["steam"],
-		"links": ["https://store.steampowered.com/app/865610/Backbone/"],
+		"steam": "https://store.steampowered.com/app/865610/Backbone/",
 		"ytlink": "https://youtu.be/4Gp68mw82M0?t=14455"
 	},
 	{
@@ -109,11 +89,8 @@
 		"desc": "Chinatown Detective Agency is a cybernoir point and click adventure blending stunning retro design with innovative mechanics. Manage your detective agency and use real world research to solve cases as you unravel a global conspiracy.",
 		"stream": "April 30, 2020",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1172190/header.jpg?t=1592332851",
-		"platforms": ["steam", "itch"],
-		"links": [
-			"https://store.steampowered.com/app/1172190/Chinatown_Detective_Agency/",
-			"https://general-interactive-co.itch.io/cda-alpha"
-		],
+		"steam": "https://store.steampowered.com/app/1172190/Chinatown_Detective_Agency/",
+		"itch": "https://general-interactive-co.itch.io/cda-alpha",
 		"ytlink": "https://youtu.be/PclwJanT0IA?t=8148"
 	},
 	{
@@ -121,11 +98,8 @@
 		"desc": "Coffee Talk is a coffee brewing and heart-to-heart talking simulator about listening to fantasy-inspired modern peoples’ problems, and helping them by serving up a warm drink or two.",
 		"stream": "April 30, 2020",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/914800/header.jpg?t=1594785661",
-		"platforms": ["steam", "itch"],
-		"links": [
-			"https://store.steampowered.com/app/914800/Coffee_Talk/",
-			"https://togeproductions.itch.io/coffee-talk"
-		],
+		"steam": "https://store.steampowered.com/app/914800/Coffee_Talk/",
+		"itch": "https://togeproductions.itch.io/coffee-talk",
 		"ytlink": "https://youtu.be/PclwJanT0IA?t=8987"
 	},
 	{
@@ -133,8 +107,7 @@
 		"desc": "Welcome to Elk is a biographical adventure set on an island like no other, where every character you encounter has a story to tell. From the weird and wonderful to the dark and desperate, all the tales told on Elk are based on true stories of life on the road less traveled.",
 		"stream": "April 30, 2020",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1015940/header.jpg?t=1595316794",
-		"platforms": ["steam"],
-		"links": ["https://store.steampowered.com/app/1015940/Welcome_to_Elk/"],
+		"steam": "https://store.steampowered.com/app/1015940/Welcome_to_Elk/",
 		"ytlink": "https://youtu.be/PclwJanT0IA?t=10039"
 	},
 	{
@@ -142,8 +115,7 @@
 		"desc": "Röki is an adventure game inspired by Scandinavian folklore - a dark, contemporary fairy tale underpinned by a touching narrative, an alluring art style, ancient puzzles and atmospheric exploration.",
 		"stream": "April 30, 2020",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1067540/header.jpg?t=1596618750",
-		"platforms": ["steam"],
-		"links": ["https://store.steampowered.com/app/1067540/Rki/"],
+		"steam": "https://store.steampowered.com/app/1067540/Rki/",
 		"ytlink": "https://youtu.be/PclwJanT0IA?t=11861"
 	},
 	{
@@ -151,8 +123,7 @@
 		"desc": "Lost Words is a 2D narrative adventure game where players move words to solve puzzles. The game features a story written by Rhianna Pratchett and ties the narrative into the gameplay in an unusual way, by having the player running on and interacting with words to solve puzzles.",
 		"stream": "April 30, 2020",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/599610/header.jpg?t=1591443853",
-		"platforms": ["steam"],
-		"links": ["https://store.steampowered.com/app/599610/Lost_Words_Beyond_the_Page/"],
+		"steam": "https://store.steampowered.com/app/599610/Lost_Words_Beyond_the_Page/",
 		"ytlink": "https://youtu.be/PclwJanT0IA?t=13593"
 	},
 	{
@@ -160,8 +131,7 @@
 		"desc": "Based on a school curriculum, Madu Maths tests primary school kids in addition and subtraction as they help bees collect honey for their hive. A solo developer effort, Madu Maths boasts challenging gameplay coupled with an original score and organic graphics to make for a fulfilling experience.",
 		"stream": "June 9, 2020",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/689400/header.jpg?t=1504463609",
-		"platforms": ["steam"],
-		"links": ["https://store.steampowered.com/app/689400/Madu_Maths/"],
+		"steam": "https://store.steampowered.com/app/689400/Madu_Maths/",
 		"ytlink": "https://youtu.be/yrfQWF2yI5c?t=1114"
 	},
 	{
@@ -169,11 +139,8 @@
 		"desc": "Haru is invited by her old friend Manami to spend a night at the hot springs. All Haru wants to do is enjoy the hot springs like everyone else, but she doesn't want to cause any trouble...",
 		"stream": "June 9, 2020",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/917680/header.jpg?t=1572054919",
-		"platforms": ["steam", "itch"],
-		"links": [
-			"https://store.steampowered.com/app/917680/one_night_hot_springs/",
-			"https://npckc.itch.io/one-night-hot-springs"
-		],
+		"steam": "https://store.steampowered.com/app/917680/one_night_hot_springs/",
+		"itch": "https://npckc.itch.io/one-night-hot-springs",
 		"ytlink": "https://youtu.be/yrfQWF2yI5c?t=2519"
 	},
 	{
@@ -181,11 +148,8 @@
 		"desc": "Experience the epic journey of Algiz, the architect of life, as he seeks to retrieve his stolen power. But not only has his power been stolen. The whole world he designed is on a brink of destruction.",
 		"stream": "June 9, 2020",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/740470/header.jpg?t=1560436463",
-		"platforms": ["steam", "itch"],
-		"links": [
-			"https://store.steampowered.com/app/740470/Echoed_World/",
-			"https://team-dots.itch.io/echoed-world"
-		],
+		"steam": "https://store.steampowered.com/app/740470/Echoed_World/",
+		"itch": "https://team-dots.itch.io/echoed-world",
 		"ytlink": "https://youtu.be/yrfQWF2yI5c?t=3942"
 	},
 	{
@@ -193,8 +157,7 @@
 		"desc": "Bathe your Frog King by jumping, hopping and tonguing yourself around maps in Frog Bath with the goal of beating your friends at giving His Cleanliness a bath! Spit and steal bath items from your friends to give the best bath possible to the Frog King.",
 		"stream": "June 9, 2020",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1283630/header.jpg?t=1591735449",
-		"platforms": ["steam"],
-		"links": ["https://store.steampowered.com/app/1283630/Frog_Bath/"],
+		"steam": "https://store.steampowered.com/app/1283630/Frog_Bath/",
 		"ytlink": "https://youtu.be/yrfQWF2yI5c?t=5193"
 	},
 	{
@@ -202,11 +165,8 @@
 		"desc": "Teach the gods to create a better universe - or mess it all up in Mythic Ocean, a narrative exploration game where your choices shape the fate of the cosmos.",
 		"stream": "June 9, 2020",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/814360/header.jpg?t=1585343585",
-		"platforms": ["steam", "itch"],
-		"links": [
-			"https://store.steampowered.com/app/814360/Mythic_Ocean/",
-			"https://paralune.itch.io/mythic-ocean"
-		],
+		"steam": "https://store.steampowered.com/app/814360/Mythic_Ocean/",
+		"itch": "https://paralune.itch.io/mythic-ocean",
 		"ytlink": "https://youtu.be/yrfQWF2yI5c?t=6452"
 	},
 	{
@@ -214,11 +174,8 @@
 		"desc": "Welcome to the world of Ctrl CV, a find-the-image platformer puzzle game. You are surrounded by countless clones of yourself, and your goal is to find the source of these doppelgangers. Try not to lose yourself in the midst of \"yourselves\".",
 		"stream": "June 9, 2020",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/502130/header.jpg?t=1591503965",
-		"platforms": ["steam", "itch"],
-		"links": [
-			"https://store.steampowered.com/app/502130/Ctrl_CV/",
-			"https://psychoflux.itch.io/ctrlcv"
-		],
+		"steam": "https://store.steampowered.com/app/502130/Ctrl_CV/",
+		"itch": "https://psychoflux.itch.io/ctrlcv",
 		"ytlink": "https://youtu.be/yrfQWF2yI5c?t=8125"
 	},
 	{
@@ -226,11 +183,8 @@
 		"desc": "Embark on an adventure and command your flock to bring your fluffy friends back home. The mysterious disappearance of Ramsey sparks your journey as you must collect, throw and bounce from sheep to sheep to bring him back home safely.",
 		"stream": "June 9, 2020",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1231590/header.jpg?t=1583137021",
-		"platforms": ["steam", "itch"],
-		"links": [
-			"https://store.steampowered.com/app/1231590/Isle_of_Ewe/",
-			"https://noeweproductions.itch.io/isle-of-ewe"
-		],
+		"steam": "https://store.steampowered.com/app/1231590/Isle_of_Ewe/",
+		"itch": "https://noeweproductions.itch.io/isle-of-ewe",
 		"ytlink": "https://youtu.be/yrfQWF2yI5c"
 	},
 	{
@@ -238,8 +192,7 @@
 		"desc": "The Kokurase gang, also known as Cupid’s Helpers, is out to help freshman Sakura woo Yoshimitsu, a popular senior with every other girl in school vying for his heart. Switch between members to bring these two lovebirds together in an intertwining tale.",
 		"stream": "June 9, 2020",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/520910/header.jpg?t=1579574998",
-		"platforms": ["steam"],
-		"links": ["https://store.steampowered.com/app/520910/Kokurase_Episode_1/"],
+		"steam": "https://store.steampowered.com/app/520910/Kokurase_Episode_1/",
 		"ytlink": "https://youtu.be/yrfQWF2yI5c?t=10720"
 	},
 	{
@@ -247,11 +200,8 @@
 		"desc": "Lost in a weird city in the middle of the desert and surrounded by strange creatures that keep staring at you. This is a game about exploring the unknown and solving puzzles... lots of them! Don't be fooled by the looks, this isn't a point & click adventure.",
 		"stream": "June 9, 2020",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/395520/header.jpg?t=1447377587",
-		"platforms": ["steam", "itch"],
-		"links": [
-			"https://store.steampowered.com/app/395520/Missing_Translation/",
-			"https://ludipe.itch.io/missing-translation"
-		],
+		"steam": "https://store.steampowered.com/app/395520/Missing_Translation/",
+		"itch": "https://ludipe.itch.io/missing-translation",
 		"ytlink": "https://youtu.be/yrfQWF2yI5c?t=12233"
 	},
 	{
@@ -259,11 +209,8 @@
 		"desc": "Marie's Room is a short story exploration game about an unconventional friendship between two classmates. You play as Kelsey, remembering Marie's room as it was twenty years ago. But something’s off. What happened to Marie?",
 		"stream": "June 9, 2020",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/648390/header.jpg?t=1591106991",
-		"platforms": ["steam", "itch"],
-		"links": [
-			"https://store.steampowered.com/app/648390/Maries_Room/",
-			"https://kennyguillaume.itch.io/maries-room"
-		],
+		"steam": "https://store.steampowered.com/app/648390/Maries_Room/",
+		"itch": "https://kennyguillaume.itch.io/maries-room",
 		"ytlink": "https://youtu.be/yrfQWF2yI5c?t=13705"
 	},
 	{
@@ -271,8 +218,7 @@
 		"desc": "Paradise Island, a world outside reality. There’s been a murder that only \"investigation freak\" Lady Love Dies can solve. Gather evidence and interrogate suspects in this open world adventure. You can accuse anyone, but you’ll have to prove your case in trial to convict. It’s up to you to decide who’s guilty.",
 		"stream": "June 9, 2020",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1160220/header.jpg?t=1596051753",
-		"platforms": ["steam"],
-		"links": ["https://store.steampowered.com/app/1160220/Paradise_Killer/"],
+		"steam": "https://store.steampowered.com/app/1160220/Paradise_Killer/",
 		"ytlink": "https://youtu.be/yrfQWF2yI5c?t=15263"
 	},
 	{
@@ -280,11 +226,8 @@
 		"desc": "Explore beautiful, hand-crafted Metroidvanian worlds by conjuring different magic portals. Each portal gives you unique abilities to solve puzzles, outsmart abominable creatures, and unravel mysteries.",
 		"stream": "August 4, 2020",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/814680/header.jpg?t=1593546357",
-		"platforms": ["steam", "itch"],
-		"links": [
-			"https://store.steampowered.com/app/814680/Unbound_Worlds_Apart/",
-			"https://alienpixelstudios.itch.io/unbound"
-		],
+		"steam": "https://store.steampowered.com/app/814680/Unbound_Worlds_Apart/",
+		"itch": "https://alienpixelstudios.itch.io/unbound",
 		"ytlink": ""
 	},
 	{
@@ -292,8 +235,7 @@
 		"desc": "A game about never-ending problem of loading screens. We've all experienced it while playing games, while downloading something, while installing an operating system ect.",
 		"stream": "August 4, 2020",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/652980/header.jpg?t=1500000508",
-		"platforms": ["steam"],
-		"links": ["https://store.steampowered.com/app/652980/Loading_Screen_Simulator/"],
+		"steam": "https://store.steampowered.com/app/652980/Loading_Screen_Simulator/",
 		"ytlink": ""
 	},
 	{
@@ -301,8 +243,7 @@
 		"desc": "Explore a world handcrafted from clay. Make dumb jokes with your Foxcat friend. Use magic to solve puzzles. Can you solve the mystery at the Wizard Tower?",
 		"stream": "August 4, 2020",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1276100/header.jpg?t=1594264517",
-		"platforms": ["steam"],
-		"links": ["https://store.steampowered.com/app/1276100/Clay_Game/"],
+		"steam": "https://store.steampowered.com/app/1276100/Clay_Game/",
 		"ytlink": ""
 	},
 	{
@@ -310,8 +251,7 @@
 		"desc": "Curious Expedition 2 is the follow-up to the award-winning 19th century expedition simulation. Join the legendary Explorer Clubs and venture on unprecedented expeditions to regions never explored before for fame, science and treasures.",
 		"stream": "August 4, 2020",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1040230/header.jpg?t=1596641165",
-		"platforms": ["steam"],
-		"links": ["https://store.steampowered.com/app/1040230/Curious_Expedition_2/"],
+		"steam": "https://store.steampowered.com/app/1040230/Curious_Expedition_2/",
 		"ytlink": ""
 	},
 	{
@@ -319,8 +259,7 @@
 		"desc": "2008. The golden age of the Internet. Rage comics. Cat videos. JPEGs. Take this figurative time machine back to relive the uncanny flash games of yesteryear. DISCLAIMER: You cannot blame us if your teacher catches you playing this in class.",
 		"stream": "August 4, 2020",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/783430/header.jpg?t=1577222023",
-		"platforms": ["steam"],
-		"links": ["https://store.steampowered.com/app/783430/Gatlin/"],
+		"steam": "https://store.steampowered.com/app/783430/Gatlin/",
 		"ytlink": ""
 	},
 	{
@@ -328,8 +267,7 @@
 		"desc": "The rules are simple. Just cut the food.",
 		"stream": "August 4, 2020",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1339330/header.jpg?t=1592606527",
-		"platforms": ["steam"],
-		"links": ["https://store.steampowered.com/app/1339330/Samurai_Cooking/"],
+		"steam": "https://store.steampowered.com/app/1339330/Samurai_Cooking/",
 		"ytlink": ""
 	},
 	{
@@ -337,8 +275,7 @@
 		"desc": "FrostRunner is a first-person platformer “speedrunning” game, where the player rapidly completes platforming challenges before the timer runs out. Using their tether tool, players compete to finish each of the 36 unique levels as quickly as possible and earn a place at the top of the leaderboards.",
 		"stream": "August 4, 2020",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/934840/header.jpg?t=1566744887",
-		"platforms": ["steam"],
-		"links": ["https://store.steampowered.com/app/934840/FrostRunner/"],
+		"steam": "https://store.steampowered.com/app/934840/FrostRunner/",
 		"ytlink": ""
 	},
 	{
@@ -346,8 +283,7 @@
 		"desc": "2.5D fantasy adventure homage to \"The Little Prince\". 2.5D world consisting of 3D sphere model and pixel art. A Fantastic world view with subtle original graphics.",
 		"stream": "August 4, 2020",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1174300/header.jpg?t=1581386334",
-		"platforms": ["steam"],
-		"links": ["https://store.steampowered.com/app/1174300/Shiki/"],
+		"steam": "https://store.steampowered.com/app/1174300/Shiki/",
 		"ytlink": ""
 	},
 	{
@@ -355,8 +291,7 @@
 		"desc": "A little game that’s not a game, winner of an old game jam that nobody’s ever heard of. So DON'T INSTALL IT!",
 		"stream": "August 4, 2020",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1241700/header.jpg?t=1594216871",
-		"platforms": ["steam"],
-		"links": ["https://store.steampowered.com/app/1241700/There_Is_No_Game__Jam_Edition_2015/"],
+		"steam": "https://store.steampowered.com/app/1241700/There_Is_No_Game__Jam_Edition_2015/",
 		"ytlink": ""
 	},
 	{
@@ -364,11 +299,8 @@
 		"desc": "Help Zigloton steal an old relic on his journey to infiltrate a mysterious planet, in this challenging platformer developped and hand-animated by one person.",
 		"stream": "August 4, 2020",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1236070/header.jpg?t=1581684333",
-		"platforms": ["steam", "itch"],
-		"links": [
-			"https://store.steampowered.com/app/1236070/Mission_Zigloton/",
-			"https://ben-lega.itch.io/mission-zigloton"
-		],
+		"steam": "https://store.steampowered.com/app/1236070/Mission_Zigloton/",
+		"itch": "https://ben-lega.itch.io/mission-zigloton",
 		"ytlink": ""
 	},
 	{
@@ -376,8 +308,7 @@
 		"desc": "Welcome to Death Mountain, stranger! So you want to be the new Herald of The Mountain, huh? Well, if you're any good at 2D jumpin', gun-slingin', and puzzle-solvin', maybe you should give the The Ice Caves a run for its money.",
 		"stream": "August 4, 2020",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1339640/header.jpg?t=1595008721",
-		"platforms": ["steam"],
-		"links": ["https://store.steampowered.com/app/1339640/The_Ice_Caves/"],
+		"steam": "https://store.steampowered.com/app/1339640/The_Ice_Caves/",
 		"ytlink": ""
 	},
 	{
@@ -385,11 +316,8 @@
 		"desc": "A girl wakes up with no knowledge of who or where she is, and she soon finds out that the only way forward... is to die.",
 		"stream": "September 9, 2020",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1125420/header.jpg?t=1571156763",
-		"platforms": ["steam", "itch"],
-		"links": [
-			"https://store.steampowered.com/app/1125420/Death_and_Progress/",
-			"https://shentzu.itch.io/death-and-progress"
-		],
+		"steam": "https://store.steampowered.com/app/1125420/Death_and_Progress/",
+		"itch": "https://shentzu.itch.io/death-and-progress",
 		"ytlink": ""
 	},
 	{
@@ -397,11 +325,8 @@
 		"desc": "Vecter is a fast-paced runner and shooter game where your goal is to survive by the skin of your teeth and raise hell in your path. You get in your ship, you push the throttle on max and then try to survive for as long as possible by annihilating anything that gets in your way.",
 		"stream": "September 9, 2020",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1175140/header_alt_assets_1.jpg?t=1595878659",
-		"platforms": ["steam", "itch"],
-		"links": [
-			"https://store.steampowered.com/app/1175140/Vecter/",
-			"https://taranasus.itch.io/vecter"
-		],
+		"steam": "https://store.steampowered.com/app/1175140/Vecter/",
+		"itch": "https://taranasus.itch.io/vecter",
 		"ytlink": ""
 	},
 	{
@@ -409,8 +334,7 @@
 		"desc": "Shepherd of Light is a student made game where you control a young shepherd who loses his sheep, and must brave a wolf-infested forest to get them to safety. Rescue sheep with different special abilities and direct them to solve environmental puzzles.",
 		"stream": "September 9, 2020",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1106770/header.jpg?t=1567580434",
-		"platforms": ["steam"],
-		"links": ["https://store.steampowered.com/app/1106770/Shepherd_of_Light/"],
+		"steam": "https://store.steampowered.com/app/1106770/Shepherd_of_Light/",
 		"ytlink": ""
 	},
 	{
@@ -418,11 +342,8 @@
 		"desc": "Play as Chelshia the chimera in this platforming beat-em-up adventure into the wonderful world of monster girls!",
 		"stream": "September 9, 2020",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/467380/header.jpg?t=1573437385",
-		"platforms": ["steam", "itch"],
-		"links": [
-			"https://store.steampowered.com/app/467380/Khimera_Destroy_All_Monster_Girls/",
-			"https://suits-sandals.itch.io/khimera-destroy-all-monster-girls"
-		],
+		"steam": "https://store.steampowered.com/app/467380/Khimera_Destroy_All_Monster_Girls/",
+		"itch": "https://suits-sandals.itch.io/khimera-destroy-all-monster-girls",
 		"ytlink": ""
 	},
 	{
@@ -430,11 +351,8 @@
 		"desc": "Embark on a casual, botanical-puzzle-adventure. Make friends, learn new skills, solve puzzles, and become the mighty oak that you were always meant to be.",
 		"stream": "September 9, 2020",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/758530/header.jpg?t=1515182420",
-		"platforms": ["steam", "itch"],
-		"links": [
-			"https://store.steampowered.com/app/758530/Sprout/",
-			"https://mindfulmammoth.itch.io/sprout"
-		],
+		"steam": "https://store.steampowered.com/app/758530/Sprout/",
+		"itch": "https://mindfulmammoth.itch.io/sprout",
 		"ytlink": ""
 	},
 	{
@@ -442,8 +360,7 @@
 		"desc": "Experience iconic golf courses like Pebble Beach, St Andrews and Wolf Creek in the most realistic free golf game, and connect with millions of players all over the world!",
 		"stream": "September 9, 2020",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1182020/header.jpg?t=1593552561",
-		"platforms": ["steam"],
-		"links": ["https://store.steampowered.com/app/1182020/WGT_Golf/"],
+		"steam": "https://store.steampowered.com/app/1182020/WGT_Golf/",
 		"ytlink": ""
 	},
 	{
@@ -451,11 +368,8 @@
 		"desc": "Outwit, Outplay, Outcast.",
 		"stream": "September 9, 2020",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1031700/header.jpg?t=1555938033",
-		"platforms": ["steam", "itch"],
-		"links": [
-			"https://store.steampowered.com/app/1031700/Survivor/",
-			"https://reiameril.itch.io/survivor"
-		],
+		"steam": "https://store.steampowered.com/app/1031700/Survivor/",
+		"itch": "https://reiameril.itch.io/survivor",
 		"ytlink": ""
 	},
 	{
@@ -463,10 +377,7 @@
 		"desc": "SAD RPG : A Social Anxiety Role Playing Game is an experimental indie computer RPG game about social anxiety. It's an unexpectedly colourful, weird and full of surprises journey with our own story about dealing with Social Anxiety Disorder.",
 		"stream": "October 24, 2020",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/857760/header.jpg?t=1602363024",
-		"platforms": ["steam"],
-		"links": [
-			"https://store.steampowered.com/app/857760/SAD_RPG_A_Social_Anxiety_Role_Playing_Game/"
-		],
+		"steam": "https://store.steampowered.com/app/857760/SAD_RPG_A_Social_Anxiety_Role_Playing_Game/",
 		"ytlink": ""
 	},
 	{
@@ -474,8 +385,7 @@
 		"desc": "A narrative puzzle game about two people trying to find their way back together in a city on fire.",
 		"stream": "October 24, 2020",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1188900/header.jpg?t=1598897655",
-		"platforms": ["steam"],
-		"links": ["https://store.steampowered.com/app/1188900/Fire_Tonight/"],
+		"steam": "https://store.steampowered.com/app/1188900/Fire_Tonight/",
 		"ytlink": ""
 	},
 	{
@@ -483,8 +393,7 @@
 		"desc": "A unique artist sim game with realistic paint mixing, physics and numerous painting tools. Upgrade and customize your studio, complete tasks, sell and expose art, buy instruments and get famous!",
 		"stream": "October 24, 2020",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1293180/header.jpg?t=1602504923",
-		"platforms": ["steam"],
-		"links": ["https://store.steampowered.com/app/1293180/SuchArt_Genius_Artist_Simulator/"],
+		"steam": "https://store.steampowered.com/app/1293180/SuchArt_Genius_Artist_Simulator/",
 		"ytlink": ""
 	},
 	{
@@ -492,8 +401,7 @@
 		"desc": "Smelter is a strategy, action-platformer combo inspired by the classics. Play as Eve, who teams up with Smelter in her search for Adam, expanding Smelter’s base and exploring new dangerous lands.",
 		"stream": "October 24, 2020",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1094540/header.jpg?t=1602210488",
-		"platforms": ["steam"],
-		"links": ["https://store.steampowered.com/app/1094540/Smelter/"],
+		"steam": "https://store.steampowered.com/app/1094540/Smelter/",
 		"ytlink": ""
 	},
 	{
@@ -501,11 +409,8 @@
 		"desc": "Explore a labyrinthian spacecraft and discover its mysteries and purpose. Help Oirbo navigate a metroidvania inspired, hand-drawn, 2D action-platformer full of secrets to uncover, areas to explore and enemies to dismantle. The choices are yours to make, how will you unravel the twisted story?",
 		"stream": "October 24, 2020",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1074280/header.jpg?t=1601487958",
-		"platforms": ["steam", "itch"],
-		"links": [
-			"https://store.steampowered.com/app/1074280/Oirbo/",
-			"https://imaginationoverflow.itch.io/oirbo"
-		],
+		"steam": "https://store.steampowered.com/app/1074280/Oirbo/",
+		"itch": "https://imaginationoverflow.itch.io/oirbo",
 		"ytlink": ""
 	},
 	{
@@ -513,8 +418,7 @@
 		"desc": "Calico is a day-in-the-life community sim game where you are given an important and adorable task: rebuild the town’s cat café and fill it with cute and cuddly creatures! Build up your café by filling it with cute furniture, fun decorations, yummy pastries, and get it bustling with animals again!",
 		"stream": "October 24, 2020",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1112890/header.jpg?t=1602564116",
-		"platforms": ["steam"],
-		"links": ["https://store.steampowered.com/app/1112890/Calico/"],
+		"steam": "https://store.steampowered.com/app/1112890/Calico/",
 		"ytlink": ""
 	},
 	{
@@ -522,11 +426,8 @@
 		"desc": "A hike above ancient woodland on summer solstice.",
 		"stream": "October 24, 2020",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1344880/header.jpg?t=1600445907",
-		"platforms": ["steam", "itch"],
-		"links": [
-			"https://store.steampowered.com/app/1344880/Finders_Keepers/",
-			"https://brainchild.itch.io/finders-keepers"
-		],
+		"steam": "https://store.steampowered.com/app/1344880/Finders_Keepers/",
+		"itch": "https://brainchild.itch.io/finders-keepers",
 		"ytlink": ""
 	},
 	{
@@ -534,8 +435,7 @@
 		"desc": "Night Reverie is a Puzzle/Adventure game in which a child must solve the mystery behind the distortion of his house. Explore puzzle-filled environments and discover strange creatures living in the house as you reach the truth behind of what looks like a bizarre nightmare.",
 		"stream": "October 24, 2020",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1254670/header.jpg?t=1602089165",
-		"platforms": ["steam"],
-		"links": ["https://store.steampowered.com/app/1254670/Night_Reverie/"],
+		"steam": "https://store.steampowered.com/app/1254670/Night_Reverie/",
 		"ytlink": ""
 	},
 	{
@@ -543,8 +443,92 @@
 		"desc": "An unnatural storm leaves an adventurous aviator stranded for decades within the infamous Bermuda. Overcome creatures of the deep and unravel the islands secrets in search of a way back home.",
 		"stream": "October 24, 2020",
 		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1107300/header.jpg?t=1602024359",
-		"platforms": ["steam"],
-		"links": ["https://store.steampowered.com/app/1107300/Down_in_Bermuda/"],
+		"steam": "https://store.steampowered.com/app/1107300/Down_in_Bermuda/",
+		"ytlink": ""
+	},
+	{
+		"title": "Whateverland",
+		"desc": "Welcome to Whateverland, a prison for lost souls, where everyone gets what they truly deserve! This not so classic point-n-click will take you on an adventure through the bizarrely beautiful hand-drawn world. And you’re the only one who decides what kind of story it's going to be!",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1175840/header.jpg?t=1602080934",
+		"steam": "https://store.steampowered.com/app/1175840/Whateverland/",
+		"itch": "https://caligarigames.itch.io/whateverland-prologue",
+		"stream": "October 27, 2020",
+		"ytlink": ""
+	},
+	{
+		"title": "Glitchphobia",
+		"desc": "Immerse yourself into unstable reality. In order to get out you must exploit glitch in a world around you. You can be sure of one thing, any rules you known no longer exist!! Do you have a courage to dip in it?",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1300880/header.jpg?t=1598042936",
+		"steam": "https://store.steampowered.com/app/1300880/Glitchphobia/",
+		"itch": "https://biszop.itch.io/glitchphobia",
+		"stream": "October 27, 2020",
+		"ytlink": ""
+	},
+	{
+		"title": "Altered",
+		"desc": "Altered is a meditative puzzle game mixing hard puzzles and a soothing atmosphere. Explore a mysterious world filled with challenging puzzles solving them by altering your characters in multiple ways, forcing you to think outside the box.",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/973250/header.jpg?t=1602229181",
+		"steam": "https://store.steampowered.com/app/973250/Altered/",
+		"itch": "https://glitchheart.itch.io/altered",
+		"stream": "October 27, 2020",
+		"ytlink": ""
+	},
+	{
+		"title": "Raji: Prologue",
+		"desc": "A young girl named Raji has been chosen by the gods to stand against the demonic invasion of the human realm. Her destiny? To rescue her younger brother and face the demon lord Mahabalasura.",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/730390/header.jpg?t=1602591995",
+		"steam": "https://store.steampowered.com/app/1429740/Raji_Prologue/",
+		"itch": "https://rajithegame.itch.io/raji-an-ancient-epic",
+		"stream": "October 27, 2020",
+		"ytlink": ""
+	},
+	{
+		"title": "Survival Journals",
+		"desc": "Survive with your choices and fortify your safehouse in this text based adventure. The Horde's on it's way, will you be ready when it arrives?",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/792380/header.jpg?t=1601930201",
+		"steam": "https://store.steampowered.com/app/792380/Survival_Journals/",
+		"stream": "October 27, 2020",
+		"ytlink": ""
+	},
+	{
+		"title": "EXPOSURE, a game of camouflage",
+		"desc": "A game of camouflage where you can’t see yourself. Change colors to hide, dodge predators, and survive intense bosses in the abstract wilderness of stealth non-bullet hell. Lose the ability to see where you are, and learn to feel and know where you’re going.",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/506110/header.jpg?t=1602201821",
+		"steam": "https://store.steampowered.com/app/506110/EXPOSURE_a_game_of_camouflage/",
+		"stream": "October 27, 2020",
+		"ytlink": ""
+	},
+	{
+		"title": "Temple of Snek",
+		"desc": "A snaky tile-based puzzle dungeon adventure. Defend the temple, monch the infidels, and grow and grow and grow...",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1208590/header.jpg?t=1602100513",
+		"steam": "https://store.steampowered.com/app/1208590/Temple_Of_Snek/",
+		"stream": "October 27, 2020",
+		"ytlink": ""
+	},
+	{
+		"title": "Monster Prom 2: Monster Camp",
+		"desc": "\"Monster Prom 2: Monster Camp\" brings you more of the world's best (and maybe only?) multiplayer dating sim; but in a way you've never expected!",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1140270/header.jpg?t=1601495789",
+		"steam": "https://store.steampowered.com/app/1140270/Monster_Prom_2_Monster_Camp/",
+		"stream": "October 27, 2020",
+		"ytlink": ""
+	},
+	{
+		"title": "Airhead",
+		"desc": "Help a small body save a head-like organism full of air, from a leak that threatens its life. Explore their Metroidvania style world and overcome challenging environmental puzzles to find the key to the head's survival.",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/771700/header.jpg?t=1602155774",
+		"steam": "https://store.steampowered.com/app/771700/Airhead/",
+		"stream": "October 27, 2020",
+		"ytlink": ""
+	},
+	{
+		"title": "Lost Keys",
+		"desc": "In Lost Keys, you are a boy who is lost in a place full of dangers, find the keys to open all doors and get to the exit.",
+		"thumbnail": "https://cdn.cloudflare.steamstatic.com/steam/apps/1375640/header.jpg?t=1601322905",
+		"steam": "https://store.steampowered.com/app/1375640/Lost_Keys/",
+		"itch": "https://x1studio.itch.io/lost-keys",
+		"stream": "October 27, 2020",
 		"ytlink": ""
 	}
 ]
