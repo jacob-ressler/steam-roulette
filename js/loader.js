@@ -18,17 +18,16 @@ function loadArchive(partialpath = '') {
 		let archiveHtml = '';
 		for (let i = 0; i < data.length; i++) {
 			const game = data[i];
+
+			// First make sure this isn't an extra element without data
+			// If it is, we've already reached the end of populated elements so just break the loop
+			if (!game.title || game.title == '') break;
+
 			let platformsHtml = '';
-			for (let j = 0; j < game.platforms.length; j++) {
-				switch (game.platforms[j]) {
-					case 'steam':
-						platformsHtml += `<object><a href="${game.links[j]}"><i class="fab fa-steam"></i></a></object>`;
-						continue;
-					case 'itch':
-						platformsHtml += `<object><a href="${game.links[j]}"><i class="fab fa-itch-io"></i></a></object>`;
-						continue;
-				}
-			}
+			if (game.steam && game.steam != '')
+				platformsHtml += `<object><a href="${game.steam}"><i class="fab fa-steam"></i></a></object>`;
+			if (game.itch && game.itch != '')
+				platformsHtml += `<object><a href="${game.itch}"><i class="fab fa-itch-io"></i></a></object>`;
 
 			archiveHtml += `<div class="game">
 			${game.ytlink == '' ? `` : `<a href="${game.ytlink}">`}
@@ -43,7 +42,7 @@ function loadArchive(partialpath = '') {
 					<div class="platforms">${platformsHtml}</div>
 				</div>
 				${game.ytlink == '' ? `` : `</a>`}
-		</div>`;
+			</div>`;
 		}
 
 		$('.guide').html(guideHtml);
@@ -71,17 +70,16 @@ function loadSuggestions(file = 'js/game-suggestions.json') {
 
 		for (let i = 0; i < data.length; i++) {
 			const game = data[i];
+
+			// First make sure this isn't an extra element without data
+			// If it is, we've already reached the end of populated elements so just break the loop
+			if (!game.title || game.title == '') break;
+
 			let platformsHtml = '';
-			for (let j = 0; j < game.platforms.length; j++) {
-				switch (game.platforms[j]) {
-					case 'steam':
-						platformsHtml += `<object><a href="${game.links[j]}"><i class="fab fa-steam"></i></a></object>`;
-						continue;
-					case 'itch':
-						platformsHtml += `<object><a href="${game.links[j]}"><i class="fab fa-itch-io"></i></a></object>`;
-						continue;
-				}
-			}
+			if (game.steam && game.steam != '')
+				platformsHtml += `<object><a href="${game.steam}"><i class="fab fa-steam"></i></a></object>`;
+			if (game.itch && game.itch != '')
+				platformsHtml += `<object><a href="${game.itch}"><i class="fab fa-itch-io"></i></a></object>`;
 
 			suggestionsHtml += `<div class="game">
 				<img src="${game.thumbnail}" alt="${game.title}" />
@@ -94,7 +92,7 @@ function loadSuggestions(file = 'js/game-suggestions.json') {
 					<p class="stream-date">${i == 0 ? '00' : i - 1}</p>
 					<div class="platforms">${platformsHtml}</div>
 				</div>
-		</div>`;
+			</div>`;
 		}
 
 		$('.guide').html(guideHtml);
