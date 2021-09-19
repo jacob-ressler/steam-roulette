@@ -28,6 +28,8 @@ function loadArchive(partialpath = '') {
 				platformsHtml += `<object><a href="${game.steam}"><i class="fab fa-steam"></i></a></object>`;
 			if (game.itch && game.itch != '')
 				platformsHtml += `<object><a href="${game.itch}"><i class="fab fa-itch-io"></i></a></object>`;
+			if (game.other && game.other != '')
+				platformsHtml += `<object><a href="${game.other}"><i class="fas fa-gamepad"></i></a></object>`;
 
 			archiveHtml += `<div class="game">
 			${game.ytlink == '' ? `` : `<a href="${game.ytlink}">`}
@@ -60,8 +62,8 @@ function loadSuggestions(file = 'js/game-suggestions.json') {
 	const guideHtml = `<p>
 		<b>Hover</b> over a tile to see the game's <span>title</span>, <span>description</span>
 		, <span>platform availability</span>, and <span>roulette number</span>. <br />
-		<b>Click</b> a tile's <i class="fab fa-steam"></i> or <i class="fab fa-itch-io"></i> icon to
-		view the game on <span>Steam</span> or <span>itch.io</span> repsectively.
+		<b>Click</b> a tile's <i class="fab fa-steam"></i>, <i class="fab fa-itch-io"></i>, or <i class="fas fa-gamepad"></i> icon to
+		view the game on <span>Steam</span>, <span>itch.io</span>, or <span>another platform</span>.
 	</p>`;
 
 	// The suggestions are not loaded, so load them 4Head
@@ -80,6 +82,8 @@ function loadSuggestions(file = 'js/game-suggestions.json') {
 				platformsHtml += `<object><a href="${game.steam}"><i class="fab fa-steam"></i></a></object>`;
 			if (game.itch && game.itch != '')
 				platformsHtml += `<object><a href="${game.itch}"><i class="fab fa-itch-io"></i></a></object>`;
+			if (game.other && game.other != '')
+				platformsHtml += `<object><a href="${game.other}"><i class="fas fa-gamepad"></i></a></object>`;
 
 			suggestionsHtml += `<div class="game">
 				<img src="${game.thumbnail}" alt="${game.title}" />

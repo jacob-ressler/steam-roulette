@@ -55,6 +55,8 @@ body header .autumn {
 }
 
 body header .special {
+  display: -ms-grid;
+  display: grid;
   text-align: center;
   padding-top: 20px;
 }
@@ -66,7 +68,7 @@ body header .special a {
       justify-self: center;
   text-align: center;
   margin-top: 24px;
-  padding: 8px 16px;
+  padding: 8px 12px;
   border-radius: 4px;
   background-color: #c02e2e;
   -webkit-transition: -webkit-box-shadow 300ms;
@@ -76,31 +78,27 @@ body header .special a {
 }
 
 body header .special a:hover {
-  -webkit-box-shadow: 0px 3px 2px 2px #ececec;
-          box-shadow: 0px 3px 2px 2px #ececec;
+  -webkit-box-shadow: 0px 2px 2px 2px #ececec;
+          box-shadow: 0px 2px 2px 2px #ececec;
   -webkit-transition: 100ms -webkit-box-shadow;
   transition: 100ms -webkit-box-shadow;
   transition: 100ms box-shadow;
   transition: 100ms box-shadow, 100ms -webkit-box-shadow;
 }
 
-body header .special a span {
-  color: #ececec;
-}
-
 body header .special a i {
   font-size: 24px;
-  padding: 6px;
+  padding: 4px 12px;
   -webkit-transition: opacity 300ms;
   transition: opacity 300ms;
 }
 
-body header .special a i:first-child {
+body header .special a i.fa-canadian-maple-leaf:first-child {
   -webkit-transform: rotate(-25deg);
           transform: rotate(-25deg);
 }
 
-body header .special a i:last-child {
+body header .special a i.fa-canadian-maple-leaf:last-child {
   -webkit-transform: rotate(25deg);
           transform: rotate(25deg);
 }

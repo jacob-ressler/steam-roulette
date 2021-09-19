@@ -53,38 +53,34 @@ body {
 		}
 
 		.special {
-			// display: none;
+			display: grid;
 			text-align: center;
 			padding-top: 20px;
+
 			a {
 				font-size: 24px;
 				color: $text-dark;
 				justify-self: center;
 				text-align: center;
 				margin-top: 24px;
-				padding: 8px 16px;
+				padding: 8px 12px;
 				border-radius: 4px;
 				background-color: $accent;
 				transition: box-shadow 300ms;
 
 				&:hover {
-					box-shadow: 0px 3px 2px 2px $text-dark;
+					box-shadow: 0px 2px 2px 2px $text-dark;
 					transition: 100ms box-shadow;
-				}
-
-				span {
-					color: $text-dark;
 				}
 
 				i {
 					font-size: 24px;
-					padding: 6px;
-					//transform: translateY(-1px);
+					padding: 4px 12px;
 					transition: opacity 300ms;
-					&:first-child {
+					&.fa-canadian-maple-leaf:first-child {
 						transform: rotate(-25deg);
 					}
-					&:last-child {
+					&.fa-canadian-maple-leaf:last-child {
 						transform: rotate(25deg);
 					}
 				}
